@@ -1,4 +1,4 @@
-# CSVMerger
+# CSVMerger ![Build Status](https://jenkins.sse.uni-hildesheim.de/buildStatus/icon?job=CSVMerger "Build Status")
 
 ### [csvmerger.jar](http://jenkins.sse.uni-hildesheim.de/job/CSVMerger/lastSuccessfulBuild/artifact/build/jars/csvmerger.jar)
 `java -jar csvmerger.jar <inputA> <colsA> <inputB> <colsB> <output>`
