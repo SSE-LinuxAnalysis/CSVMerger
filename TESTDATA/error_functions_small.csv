@@ -1,0 +1,4 @@
+"function_id";"function_path";"function_name";"error_count"
+"4378";"arch/x86/boot/compressed/eboot.c";"make_boot_params";"1"
+"3321";"arch/x86/boot/compressed/string.c";"memcpy";"1"
+"9643";"arch/x86/crypto/chacha20_glue.c";"chacha20_simd_mod_init";"1"

@@ -1,0 +1,122 @@
+<project name="CSVMerger" default="jenkins" basedir="." xmlns:jacoco="antlib:org.jacoco.ant" xmlns:cs="antlib:com.puppycrawl.tools.checkstyle.ant">
+
+	<property name="src" value="src"/>
+	<property name="test" value="test"/>
+	<property name="build" value="build"/>
+	<property name="classes" value="${build}/classes"/>
+    <property name="testclasses" value="${build}/testclasses/"/>
+    <property name="jars" value="${build}/jars/"/>
+	<property name="reports" value="${build}/reports"/>
+	<property name="dependencies.dir" value="${build}/dependencies"/>
+
+	<path id="compile-classpath">
+		<fileset dir="${dependencies.dir}">
+			<include name="*.jar"/>
+		</fileset>
+	</path>
+
+	<path id="classpath.testing">
+		<!-- Loads Junit from ANT installation folder -->
+		<fileset dir="${user.home}/.ant/lib">
+			<include name="junit*.jar" />
+			<include name="hamcrest*.jar" />
+		</fileset>
+	</path>
+
+	<!--
+	        Requires that the contents of https://projects.sse.uni-hildesheim.de/tools/ant-lib.zip
+	        is copied and placed at <user_home>/.ant/lib
+	        To execute this script from Eclipse, is is required that the jars in this folder are also added via:
+	        Window -> Preferences -> Ant -> Runtime -> Global Entries -> Add External JARs...
+	 -->
+	<taskdef uri="antlib:org.jacoco.ant" resource="org/jacoco/ant/antlib.xml" />
+
+	<target name="init">
+		<delete dir="${build}"/>
+
+		<mkdir dir="${build}"/>
+		<mkdir dir="${classes}"/>
+		<mkdir dir="${jars}"/>
+		<mkdir dir="${testclasses}"/>
+		<mkdir dir="${reports}"/>
+		<mkdir dir="${dependencies.dir}"/>
+
+		<get src="http://jenkins.sse.uni-hildesheim.de/job/KernelHaven_Infrastructure/lastSuccessfulBuild/artifact/build/jar/KernelHaven_fortesting.jar" dest="${dependencies.dir}" />
+		<get src="http://jenkins.sse.uni-hildesheim.de/job/KernelHaven_IOUtils/lastSuccessfulBuild/artifact/build/jar/IOUtils.jar" dest="${dependencies.dir}" />
+	</target>
+
+	<target name="compile">
+		<javac srcdir="${src}" destdir="${classes}" debug="on" source="1.8">
+			<classpath refid="compile-classpath"/>
+		</javac>
+		
+        <jar destfile="${jars}/csvmerger.jar">
+            <fileset dir="${classes}"/>
+            <manifest>
+              <attribute name="Main-Class"
+                         value="net.ssehub.csvmerger.CSVMerger"/>
+            </manifest>
+        </jar>
+
+		<jar destfile="${jars}/excelmerger.jar">
+            <fileset dir="${classes}"/>
+            <manifest>
+              <attribute name="Main-Class"
+                         value="net.ssehub.csvmerger.ExcelMerger"/>
+            </manifest>
+        </jar>
+	</target>
+
+	<target name="test">
+		<javac destdir="${testclasses}" debug="on" source="1.8">
+			<src path="${src}"/>
+			<src path="${test}"/>
+			<classpath>
+				<path refid="compile-classpath"/>
+				<path refid="classpath.testing"/>
+			</classpath>
+		</javac>
+
+		<jacoco:coverage destfile="${reports}/jacoco.exec">
+			<junit fork="true" forkmode="once">
+				<classpath>
+					<path refid="compile-classpath"/>
+					<path refid="classpath.testing"/>
+					<pathelement location="${testclasses}"/>
+				</classpath>
+
+				<formatter type="xml" />
+				<test name="net.ssehub.csvmerger.AllTests"/>
+				<batchtest todir="${reports}">
+					<!-- include all Tests -->
+					<fileset dir="${test}">
+						<include name="**/AllTests.java" />
+					</fileset>
+				</batchtest>
+			</junit>
+		</jacoco:coverage>
+
+		<jacoco:report>
+			<executiondata>
+				<file file="${reports}/jacoco.exec" />
+			</executiondata>
+
+			<structure name="${ant.project.name}">
+				<classfiles>
+					<fileset dir="${testclasses}" />
+				</classfiles>
+				<sourcefiles encoding="UTF-8">
+					<fileset dir="${src}" />
+				</sourcefiles>
+			</structure>
+
+			<html destdir="${reports}"/>
+		</jacoco:report>
+	</target>
+
+	<target name="jenkins">
+		<antcall target="init" />
+		<antcall target="compile" />
+		<antcall target="test" />
+	</target>
+</project>

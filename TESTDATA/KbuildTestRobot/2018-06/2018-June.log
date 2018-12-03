@@ -1,0 +1,3061 @@
+Mailinglist items: ../kbuild-all/2018-June.txt.gz
+Processing 1 of 722 at 16:09:32 (16.10.18)
+Handling (+writing) KH output took 66882ms
+Processing 2 of 722 at 16:10:39 (16.10.18)
+  Restoring commit took 62946ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:23
+  Running metrics took 503812ms
+Handling (+writing) KH output took 567227ms
+Processing 3 of 722 at 16:20:06 (16.10.18)
+  Restoring commit took 920ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:05
+  Running metrics took 485044ms
+Handling (+writing) KH output took 489826ms
+Processing 4 of 722 at 16:28:16 (16.10.18)
+  Restoring commit took 14620ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:53
+  Running metrics took 473490ms
+Handling (+writing) KH output took 488197ms
+Processing 5 of 722 at 16:36:24 (16.10.18)
+  Restoring commit took 9639ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:00
+  Running metrics took 480665ms
+Handling (+writing) KH output took 490892ms
+Processing 6 of 722 at 16:44:35 (16.10.18)
+  Restoring commit took 874ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:12
+  Running metrics took 552045ms
+Handling (+writing) KH output took 553328ms
+Processing 7 of 722 at 16:53:48 (16.10.18)
+  Restoring commit took 9685ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:10
+  Running metrics took 550774ms
+Handling (+writing) KH output took 560528ms
+Processing 8 of 722 at 17:03:09 (16.10.18)
+  Restoring commit took 509252ms
+    1 files produced, start merging them
+    Read file: 1 (996691 bytes)
+  Metric execution (+ merging 10 results) took 00:07:38
+  Running metrics took 458705ms
+Handling (+writing) KH output took 968406ms
+Processing 9 of 722 at 17:19:17 (16.10.18)
+Handling (+writing) KH output took 116197ms
+Processing 10 of 722 at 17:21:13 (16.10.18)
+  Restoring commit took 40676ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:22
+  Running metrics took 562053ms
+Handling (+writing) KH output took 603290ms
+Processing 11 of 722 at 17:31:16 (16.10.18)
+  Restoring commit took 11491ms
+    1 files produced, start merging them
+    Read file: 1 (706386 bytes)
+  Metric execution (+ merging 2 results) took 00:07:45
+  Running metrics took 465842ms
+Handling (+writing) KH output took 477484ms
+Processing 12 of 722 at 17:39:14 (16.10.18)
+  Restoring commit took 13545ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:58
+  Running metrics took 538244ms
+Handling (+writing) KH output took 552348ms
+Processing 13 of 722 at 17:48:26 (16.10.18)
+  Restoring commit took 12217ms
+    1 files produced, start merging them
+    Read file: 1 (658925 bytes)
+  Metric execution (+ merging 1 results) took 00:07:20
+  Running metrics took 440690ms
+Handling (+writing) KH output took 453487ms
+Processing 14 of 722 at 17:56:00 (16.10.18)
+Handling (+writing) KH output took 77807ms
+Processing 15 of 722 at 17:57:18 (16.10.18)
+Handling (+writing) KH output took 24335ms
+Processing 16 of 722 at 17:57:42 (16.10.18)
+Handling (+writing) KH output took 59199ms
+Processing 17 of 722 at 17:58:41 (16.10.18)
+Handling (+writing) KH output took 1655ms
+Processing 18 of 722 at 17:58:43 (16.10.18)
+Handling (+writing) KH output took 1646ms
+Processing 19 of 722 at 17:58:44 (16.10.18)
+Handling (+writing) KH output took 1515ms
+Processing 20 of 722 at 17:58:46 (16.10.18)
+  Restoring commit took 491ms
+    1 files produced, start merging them
+    Read file: 1 (658925 bytes)
+  Metric execution (+ merging 1 results) took 00:06:42
+  Running metrics took 402512ms
+Handling (+writing) KH output took 403549ms
+Processing 21 of 722 at 18:05:30 (16.10.18)
+Handling (+writing) KH output took 1384ms
+Processing 22 of 722 at 18:05:31 (16.10.18)
+Handling (+writing) KH output took 1562ms
+Processing 23 of 722 at 18:05:32 (16.10.18)
+Handling (+writing) KH output took 1522ms
+Processing 24 of 722 at 18:05:34 (16.10.18)
+  Restoring commit took 12978ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:13
+  Running metrics took 553695ms
+Handling (+writing) KH output took 567159ms
+Processing 25 of 722 at 18:15:01 (16.10.18)
+  Restoring commit took 24598ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:50
+  Running metrics took 530350ms
+Handling (+writing) KH output took 555129ms
+Processing 26 of 722 at 18:24:16 (16.10.18)
+Handling (+writing) KH output took 2546ms
+Processing 27 of 722 at 18:24:19 (16.10.18)
+  Restoring commit took 49502ms
+Handling (+writing) KH output took 50137ms
+Processing 28 of 722 at 18:25:09 (16.10.18)
+  Restoring commit took 21477ms
+Handling (+writing) KH output took 21560ms
+Processing 29 of 722 at 18:25:31 (16.10.18)
+  Restoring commit took 19603ms
+Handling (+writing) KH output took 26608ms
+Processing 30 of 722 at 18:25:57 (16.10.18)
+  Restoring commit took 2004ms
+Handling (+writing) KH output took 2119ms
+Processing 31 of 722 at 18:25:59 (16.10.18)
+Handling (+writing) KH output took 97465ms
+Processing 32 of 722 at 18:27:37 (16.10.18)
+Handling (+writing) KH output took 61408ms
+Processing 33 of 722 at 18:28:38 (16.10.18)
+Handling (+writing) KH output took 3673ms
+Processing 34 of 722 at 18:28:42 (16.10.18)
+Handling (+writing) KH output took 3398ms
+Processing 35 of 722 at 18:28:45 (16.10.18)
+Handling (+writing) KH output took 3494ms
+Processing 36 of 722 at 18:28:49 (16.10.18)
+Handling (+writing) KH output took 3262ms
+Processing 37 of 722 at 18:28:52 (16.10.18)
+Handling (+writing) KH output took 213147ms
+Processing 38 of 722 at 18:32:25 (16.10.18)
+Handling (+writing) KH output took 51357ms
+Processing 39 of 722 at 18:33:16 (16.10.18)
+Handling (+writing) KH output took 1849ms
+Processing 40 of 722 at 18:33:18 (16.10.18)
+  Restoring commit took 15197ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:24
+  Running metrics took 564124ms
+Handling (+writing) KH output took 579732ms
+Processing 41 of 722 at 18:42:58 (16.10.18)
+  Restoring commit took 22337ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:19
+  Running metrics took 559850ms
+Handling (+writing) KH output took 582453ms
+Processing 42 of 722 at 18:52:40 (16.10.18)
+Handling (+writing) KH output took 2586ms
+Processing 43 of 722 at 18:52:43 (16.10.18)
+  Restoring commit took 1151ms
+Handling (+writing) KH output took 1374ms
+Processing 44 of 722 at 18:52:44 (16.10.18)
+  Restoring commit took 1938ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:44
+  Running metrics took 464321ms
+Handling (+writing) KH output took 466330ms
+Processing 45 of 722 at 19:00:31 (16.10.18)
+  Restoring commit took 1870ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:36
+  Running metrics took 516270ms
+Handling (+writing) KH output took 518183ms
+Processing 46 of 722 at 19:09:09 (16.10.18)
+  Restoring commit took 17554ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:45
+  Running metrics took 525761ms
+Handling (+writing) KH output took 543550ms
+Processing 47 of 722 at 19:18:13 (16.10.18)
+  Restoring commit took 19870ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:11
+  Running metrics took 551919ms
+Handling (+writing) KH output took 571888ms
+Processing 48 of 722 at 19:27:44 (16.10.18)
+Handling (+writing) KH output took 76482ms
+Processing 49 of 722 at 19:29:01 (16.10.18)
+Handling (+writing) KH output took 3115ms
+Processing 50 of 722 at 19:29:04 (16.10.18)
+Handling (+writing) KH output took 4060ms
+Processing 51 of 722 at 19:29:08 (16.10.18)
+Handling (+writing) KH output took 3259ms
+Processing 52 of 722 at 19:29:11 (16.10.18)
+  Restoring commit took 20167ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:21
+  Running metrics took 501589ms
+Handling (+writing) KH output took 522165ms
+Processing 53 of 722 at 19:37:53 (16.10.18)
+  Restoring commit took 21631ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:39
+  Running metrics took 459717ms
+Handling (+writing) KH output took 481441ms
+Processing 54 of 722 at 19:45:55 (16.10.18)
+  Restoring commit took 19077ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:59
+  Running metrics took 479015ms
+Handling (+writing) KH output took 498202ms
+Processing 55 of 722 at 19:54:13 (16.10.18)
+  Restoring commit took 1712ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:07
+  Running metrics took 547444ms
+Handling (+writing) KH output took 549571ms
+Processing 56 of 722 at 20:03:23 (16.10.18)
+Handling (+writing) KH output took 96699ms
+Processing 57 of 722 at 20:04:59 (16.10.18)
+  Restoring commit took 21720ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:05
+  Running metrics took 485044ms
+Handling (+writing) KH output took 506823ms
+Processing 58 of 722 at 20:13:26 (16.10.18)
+  Restoring commit took 1759ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:52
+  Running metrics took 532054ms
+Handling (+writing) KH output took 533915ms
+Processing 59 of 722 at 20:22:20 (16.10.18)
+  Restoring commit took 17790ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:46
+  Running metrics took 526819ms
+Handling (+writing) KH output took 545084ms
+Processing 60 of 722 at 20:31:25 (16.10.18)
+  Restoring commit took 534ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:57
+  Running metrics took 477698ms
+Handling (+writing) KH output took 478657ms
+Processing 61 of 722 at 20:39:24 (16.10.18)
+Handling (+writing) KH output took 46865ms
+Processing 62 of 722 at 20:40:11 (16.10.18)
+  Restoring commit took 18211ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:31
+  Running metrics took 571968ms
+Handling (+writing) KH output took 591121ms
+Processing 63 of 722 at 20:50:02 (16.10.18)
+  Restoring commit took 21313ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:02
+  Running metrics took 542843ms
+Handling (+writing) KH output took 564288ms
+Processing 64 of 722 at 20:59:26 (16.10.18)
+Handling (+writing) KH output took 2654ms
+Processing 65 of 722 at 20:59:29 (16.10.18)
+  Restoring commit took 1741ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:41
+  Running metrics took 521070ms
+Handling (+writing) KH output took 523655ms
+Processing 66 of 722 at 21:08:12 (16.10.18)
+  Restoring commit took 1645ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:29
+  Running metrics took 569216ms
+Handling (+writing) KH output took 570903ms
+Processing 67 of 722 at 21:17:43 (16.10.18)
+Handling (+writing) KH output took 6885ms
+Processing 68 of 722 at 21:17:50 (16.10.18)
+Handling (+writing) KH output took 138ms
+Processing 69 of 722 at 21:17:50 (16.10.18)
+Handling (+writing) KH output took 2093ms
+Processing 70 of 722 at 21:17:52 (16.10.18)
+Handling (+writing) KH output took 150997ms
+Processing 71 of 722 at 21:20:23 (16.10.18)
+  Restoring commit took 46752ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:29
+  Running metrics took 569832ms
+Handling (+writing) KH output took 616729ms
+Processing 72 of 722 at 21:30:40 (16.10.18)
+Handling (+writing) KH output took 2505ms
+Processing 73 of 722 at 21:30:43 (16.10.18)
+Handling (+writing) KH output took 2159ms
+Processing 74 of 722 at 21:30:45 (16.10.18)
+Handling (+writing) KH output took 2383ms
+Processing 75 of 722 at 21:30:47 (16.10.18)
+Handling (+writing) KH output took 2217ms
+Processing 76 of 722 at 21:30:49 (16.10.18)
+Handling (+writing) KH output took 2305ms
+Processing 77 of 722 at 21:30:52 (16.10.18)
+Handling (+writing) KH output took 62685ms
+Processing 78 of 722 at 21:31:54 (16.10.18)
+Handling (+writing) KH output took 1819ms
+Processing 79 of 722 at 21:31:56 (16.10.18)
+  Restoring commit took 11712ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:14
+  Running metrics took 554924ms
+Handling (+writing) KH output took 570160ms
+Processing 80 of 722 at 21:41:26 (16.10.18)
+Handling (+writing) KH output took 2760ms
+Processing 81 of 722 at 21:41:29 (16.10.18)
+Handling (+writing) KH output took 1809ms
+Processing 82 of 722 at 21:41:31 (16.10.18)
+Handling (+writing) KH output took 65726ms
+Processing 83 of 722 at 21:42:37 (16.10.18)
+  Restoring commit took 54013ms
+    1 files produced, start merging them
+    Read file: 1 (652445 bytes)
+  Metric execution (+ merging 1 results) took 00:07:12
+  Running metrics took 432229ms
+Handling (+writing) KH output took 486389ms
+Processing 84 of 722 at 21:50:43 (16.10.18)
+  Restoring commit took 64910ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:33
+  Running metrics took 513469ms
+Handling (+writing) KH output took 578594ms
+Processing 85 of 722 at 22:00:22 (16.10.18)
+  Restoring commit took 21268ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:14
+  Running metrics took 554655ms
+Handling (+writing) KH output took 575996ms
+Processing 86 of 722 at 22:09:58 (16.10.18)
+  Restoring commit took 2264ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:59
+  Running metrics took 479891ms
+Handling (+writing) KH output took 482365ms
+Processing 87 of 722 at 22:18:00 (16.10.18)
+Handling (+writing) KH output took 1723ms
+Processing 88 of 722 at 22:18:02 (16.10.18)
+Handling (+writing) KH output took 20064ms
+Processing 89 of 722 at 22:18:22 (16.10.18)
+Handling (+writing) KH output took 2305ms
+Processing 90 of 722 at 22:18:24 (16.10.18)
+Handling (+writing) KH output took 1799ms
+Processing 91 of 722 at 22:18:26 (16.10.18)
+  Restoring commit took 2382ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:54
+  Running metrics took 534678ms
+Handling (+writing) KH output took 537217ms
+Processing 92 of 722 at 22:27:23 (16.10.18)
+Handling (+writing) KH output took 2297ms
+Processing 93 of 722 at 22:27:25 (16.10.18)
+  Restoring commit took 21383ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:25
+  Running metrics took 505491ms
+Handling (+writing) KH output took 526986ms
+Processing 94 of 722 at 22:36:12 (16.10.18)
+Handling (+writing) KH output took 1622ms
+Processing 95 of 722 at 22:36:14 (16.10.18)
+  Restoring commit took 20056ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:19
+  Running metrics took 499254ms
+Handling (+writing) KH output took 519364ms
+Processing 96 of 722 at 22:44:53 (16.10.18)
+Handling (+writing) KH output took 2670ms
+Processing 97 of 722 at 22:44:56 (16.10.18)
+  Restoring commit took 23146ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:22
+  Running metrics took 562450ms
+Handling (+writing) KH output took 586076ms
+Processing 98 of 722 at 22:54:42 (16.10.18)
+  Restoring commit took 20417ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:21
+  Running metrics took 561954ms
+Handling (+writing) KH output took 582506ms
+Processing 99 of 722 at 23:04:25 (16.10.18)
+  Restoring commit took 21769ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:54
+  Running metrics took 534518ms
+Handling (+writing) KH output took 556485ms
+Processing 100 of 722 at 23:13:41 (16.10.18)
+  Restoring commit took 8807ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:52
+  Running metrics took 532314ms
+Handling (+writing) KH output took 541755ms
+Processing 101 of 722 at 23:22:43 (16.10.18)
+Handling (+writing) KH output took 2332ms
+Processing 102 of 722 at 23:22:45 (16.10.18)
+Handling (+writing) KH output took 2435ms
+Processing 103 of 722 at 23:22:48 (16.10.18)
+  Restoring commit took 21228ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:11
+  Running metrics took 551170ms
+Handling (+writing) KH output took 572833ms
+Processing 104 of 722 at 23:32:21 (16.10.18)
+  Restoring commit took 21629ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:08
+  Running metrics took 548440ms
+Handling (+writing) KH output took 570120ms
+Processing 105 of 722 at 23:41:51 (16.10.18)
+  Restoring commit took 18305ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:51
+  Running metrics took 531286ms
+Handling (+writing) KH output took 549903ms
+Processing 106 of 722 at 23:51:01 (16.10.18)
+Handling (+writing) KH output took 81971ms
+Processing 107 of 722 at 23:52:23 (16.10.18)
+Handling (+writing) KH output took 9608ms
+Processing 108 of 722 at 23:52:32 (16.10.18)
+Handling (+writing) KH output took 4187ms
+Processing 109 of 722 at 23:52:36 (16.10.18)
+Handling (+writing) KH output took 70053ms
+Processing 110 of 722 at 23:53:46 (16.10.18)
+Handling (+writing) KH output took 3732ms
+Processing 111 of 722 at 23:53:50 (16.10.18)
+Handling (+writing) KH output took 3845ms
+Processing 112 of 722 at 23:53:54 (16.10.18)
+Handling (+writing) KH output took 3733ms
+Processing 113 of 722 at 23:53:58 (16.10.18)
+  Restoring commit took 67573ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:49
+  Running metrics took 469653ms
+Handling (+writing) KH output took 537325ms
+Processing 114 of 722 at 00:02:55 (17.10.18)
+Handling (+writing) KH output took 51831ms
+Processing 115 of 722 at 00:03:47 (17.10.18)
+  Restoring commit took 17801ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:02
+  Running metrics took 542242ms
+Handling (+writing) KH output took 561038ms
+Processing 116 of 722 at 00:13:08 (17.10.18)
+Handling (+writing) KH output took 70461ms
+Processing 117 of 722 at 00:14:18 (17.10.18)
+  Restoring commit took 16323ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:50
+  Running metrics took 530470ms
+Handling (+writing) KH output took 547327ms
+Processing 118 of 722 at 00:23:26 (17.10.18)
+  Restoring commit took 2026ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:18
+  Running metrics took 558392ms
+Handling (+writing) KH output took 561381ms
+Processing 119 of 722 at 00:32:47 (17.10.18)
+  Restoring commit took 15538ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:33
+  Running metrics took 573473ms
+Handling (+writing) KH output took 589250ms
+Processing 120 of 722 at 00:42:36 (17.10.18)
+Handling (+writing) KH output took 87127ms
+Processing 121 of 722 at 00:44:03 (17.10.18)
+Handling (+writing) KH output took 3073ms
+Processing 122 of 722 at 00:44:07 (17.10.18)
+  Restoring commit took 15161ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:19
+  Running metrics took 499504ms
+Handling (+writing) KH output took 514911ms
+Processing 123 of 722 at 00:52:41 (17.10.18)
+  Restoring commit took 1278ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:48
+  Running metrics took 528037ms
+Handling (+writing) KH output took 530084ms
+Processing 124 of 722 at 01:01:32 (17.10.18)
+Handling (+writing) KH output took 2548ms
+Processing 125 of 722 at 01:01:34 (17.10.18)
+  Restoring commit took 2195ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:06
+  Running metrics took 546392ms
+Handling (+writing) KH output took 548782ms
+Processing 126 of 722 at 01:10:43 (17.10.18)
+Handling (+writing) KH output took 3884ms
+Processing 127 of 722 at 01:10:47 (17.10.18)
+  Restoring commit took 111438ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:51
+  Running metrics took 531990ms
+Handling (+writing) KH output took 643812ms
+Processing 128 of 722 at 01:21:31 (17.10.18)
+Handling (+writing) KH output took 227585ms
+Processing 129 of 722 at 01:25:18 (17.10.18)
+Handling (+writing) KH output took 2839ms
+Processing 130 of 722 at 01:25:21 (17.10.18)
+Handling (+writing) KH output took 111356ms
+Processing 131 of 722 at 01:27:12 (17.10.18)
+Handling (+writing) KH output took 2756ms
+Processing 132 of 722 at 01:27:15 (17.10.18)
+Handling (+writing) KH output took 3291ms
+Processing 133 of 722 at 01:27:18 (17.10.18)
+Handling (+writing) KH output took 3280ms
+Processing 134 of 722 at 01:27:22 (17.10.18)
+Handling (+writing) KH output took 4120ms
+Processing 135 of 722 at 01:27:26 (17.10.18)
+Handling (+writing) KH output took 2488ms
+Processing 136 of 722 at 01:27:28 (17.10.18)
+Handling (+writing) KH output took 3316ms
+Processing 137 of 722 at 01:27:32 (17.10.18)
+  Restoring commit took 11105ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:09
+  Running metrics took 549574ms
+Handling (+writing) KH output took 561188ms
+Processing 138 of 722 at 01:36:53 (17.10.18)
+  Restoring commit took 15134ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:18
+  Running metrics took 498936ms
+Handling (+writing) KH output took 514223ms
+Processing 139 of 722 at 01:45:27 (17.10.18)
+  Restoring commit took 3892ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:18
+  Running metrics took 558964ms
+Handling (+writing) KH output took 562996ms
+Processing 140 of 722 at 01:54:50 (17.10.18)
+  Restoring commit took 66191ms
+    1 files produced, start merging them
+    Read file: 1 (700950 bytes)
+  Metric execution (+ merging 2 results) took 00:09:09
+  Running metrics took 549172ms
+Handling (+writing) KH output took 615613ms
+Processing 141 of 722 at 02:05:06 (17.10.18)
+Handling (+writing) KH output took 46124ms
+Processing 142 of 722 at 02:05:52 (17.10.18)
+  Restoring commit took 24569ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:33
+  Running metrics took 513741ms
+Handling (+writing) KH output took 539424ms
+Processing 143 of 722 at 02:14:51 (17.10.18)
+  Restoring commit took 8665ms
+    1 files produced, start merging them
+    Read file: 1 (656408 bytes)
+  Metric execution (+ merging 1 results) took 00:09:14
+  Running metrics took 554391ms
+Handling (+writing) KH output took 563363ms
+Processing 144 of 722 at 02:24:15 (17.10.18)
+Handling (+writing) KH output took 54038ms
+Processing 145 of 722 at 02:25:09 (17.10.18)
+  Restoring commit took 188337ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:31
+  Running metrics took 571259ms
+Handling (+writing) KH output took 760465ms
+Processing 146 of 722 at 02:37:49 (17.10.18)
+  Restoring commit took 2846ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:44
+  Running metrics took 524294ms
+Handling (+writing) KH output took 527219ms
+Processing 147 of 722 at 02:46:36 (17.10.18)
+Handling (+writing) KH output took 10215ms
+Processing 148 of 722 at 02:46:46 (17.10.18)
+Handling (+writing) KH output took 6076ms
+Processing 149 of 722 at 02:46:53 (17.10.18)
+  Restoring commit took 29563ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:09
+  Running metrics took 549123ms
+Handling (+writing) KH output took 578753ms
+Processing 150 of 722 at 02:56:31 (17.10.18)
+  Restoring commit took 35223ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:51
+  Running metrics took 531709ms
+Handling (+writing) KH output took 567074ms
+Processing 151 of 722 at 03:05:58 (17.10.18)
+  Restoring commit took 1145ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:57
+  Running metrics took 537193ms
+Handling (+writing) KH output took 538481ms
+Processing 152 of 722 at 03:14:57 (17.10.18)
+  Restoring commit took 850ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:30
+  Running metrics took 510058ms
+Handling (+writing) KH output took 511113ms
+Processing 153 of 722 at 03:23:28 (17.10.18)
+  Restoring commit took 44494ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:46
+  Running metrics took 526102ms
+Handling (+writing) KH output took 570684ms
+Processing 154 of 722 at 03:32:59 (17.10.18)
+  Restoring commit took 972ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:46
+  Running metrics took 526439ms
+Handling (+writing) KH output took 527612ms
+Processing 155 of 722 at 03:41:46 (17.10.18)
+  Restoring commit took 11913ms
+    1 files produced, start merging them
+    Read file: 1 (652281 bytes)
+  Metric execution (+ merging 1 results) took 00:09:02
+  Running metrics took 542929ms
+Handling (+writing) KH output took 555071ms
+Processing 156 of 722 at 03:51:01 (17.10.18)
+  Restoring commit took 16766ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:42
+  Running metrics took 522217ms
+Handling (+writing) KH output took 539110ms
+Processing 157 of 722 at 04:00:00 (17.10.18)
+  Restoring commit took 28090ms
+Handling (+writing) KH output took 29450ms
+Processing 158 of 722 at 04:00:30 (17.10.18)
+  Restoring commit took 27108ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:22
+  Running metrics took 562066ms
+Handling (+writing) KH output took 589266ms
+Processing 159 of 722 at 04:10:19 (17.10.18)
+Handling (+writing) KH output took 3692ms
+Processing 160 of 722 at 04:10:23 (17.10.18)
+Handling (+writing) KH output took 3708ms
+Processing 161 of 722 at 04:10:27 (17.10.18)
+  Restoring commit took 26382ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:03
+  Running metrics took 543285ms
+Handling (+writing) KH output took 569831ms
+Processing 162 of 722 at 04:19:56 (17.10.18)
+Handling (+writing) KH output took 211288ms
+Processing 163 of 722 at 04:23:28 (17.10.18)
+Handling (+writing) KH output took 4641ms
+Processing 164 of 722 at 04:23:32 (17.10.18)
+  Restoring commit took 50115ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:00
+  Running metrics took 540998ms
+Handling (+writing) KH output took 591349ms
+Processing 165 of 722 at 04:33:24 (17.10.18)
+Handling (+writing) KH output took 25168ms
+Processing 166 of 722 at 04:33:49 (17.10.18)
+  Restoring commit took 16096ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:29
+  Running metrics took 569755ms
+Handling (+writing) KH output took 586851ms
+Processing 167 of 722 at 04:43:36 (17.10.18)
+Handling (+writing) KH output took 3245ms
+Processing 168 of 722 at 04:43:39 (17.10.18)
+  Restoring commit took 5218ms
+Handling (+writing) KH output took 5594ms
+Processing 169 of 722 at 04:43:45 (17.10.18)
+Handling (+writing) KH output took 3216ms
+Processing 170 of 722 at 04:43:48 (17.10.18)
+Handling (+writing) KH output took 47784ms
+Processing 171 of 722 at 04:44:36 (17.10.18)
+Handling (+writing) KH output took 3716ms
+Processing 172 of 722 at 04:44:39 (17.10.18)
+Handling (+writing) KH output took 6329ms
+Processing 173 of 722 at 04:44:46 (17.10.18)
+Handling (+writing) KH output took 5243ms
+Processing 174 of 722 at 04:44:51 (17.10.18)
+  Restoring commit took 30337ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:21
+  Running metrics took 561171ms
+Handling (+writing) KH output took 591807ms
+Processing 175 of 722 at 04:54:43 (17.10.18)
+Handling (+writing) KH output took 20565ms
+Processing 176 of 722 at 04:55:03 (17.10.18)
+  Restoring commit took 2461ms
+Handling (+writing) KH output took 2608ms
+Processing 177 of 722 at 04:55:06 (17.10.18)
+  Restoring commit took 38014ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:26
+  Running metrics took 566206ms
+Handling (+writing) KH output took 604353ms
+Processing 178 of 722 at 05:05:10 (17.10.18)
+Handling (+writing) KH output took 3476ms
+Processing 179 of 722 at 05:05:14 (17.10.18)
+  Restoring commit took 86042ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600697ms
+Handling (+writing) KH output took 687086ms
+Processing 180 of 722 at 05:16:41 (17.10.18)
+  Restoring commit took 75009ms
+Handling (+writing) KH output took 75463ms
+Processing 181 of 722 at 05:17:56 (17.10.18)
+Handling (+writing) KH output took 9768ms
+Processing 182 of 722 at 05:18:06 (17.10.18)
+  Restoring commit took 47702ms
+Handling (+writing) KH output took 47799ms
+Processing 183 of 722 at 05:18:54 (17.10.18)
+  Restoring commit took 1224ms
+Handling (+writing) KH output took 1314ms
+Processing 184 of 722 at 05:18:55 (17.10.18)
+  Restoring commit took 82048ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:03
+  Running metrics took 483034ms
+Handling (+writing) KH output took 565193ms
+Processing 185 of 722 at 05:28:20 (17.10.18)
+  Restoring commit took 17994ms
+Handling (+writing) KH output took 18172ms
+Processing 186 of 722 at 05:28:38 (17.10.18)
+  Restoring commit took 1116ms
+Handling (+writing) KH output took 1203ms
+Processing 187 of 722 at 05:28:40 (17.10.18)
+Handling (+writing) KH output took 185ms
+Processing 188 of 722 at 05:28:40 (17.10.18)
+  Restoring commit took 25057ms
+Handling (+writing) KH output took 25143ms
+Processing 189 of 722 at 05:29:05 (17.10.18)
+Handling (+writing) KH output took 247ms
+Processing 190 of 722 at 05:29:05 (17.10.18)
+  Restoring commit took 27585ms
+Handling (+writing) KH output took 27773ms
+Processing 191 of 722 at 05:29:33 (17.10.18)
+  Restoring commit took 1812ms
+Handling (+writing) KH output took 1967ms
+Processing 192 of 722 at 05:29:35 (17.10.18)
+  Restoring commit took 1681ms
+Handling (+writing) KH output took 2099ms
+Processing 193 of 722 at 05:29:37 (17.10.18)
+Handling (+writing) KH output took 31472ms
+Processing 194 of 722 at 05:30:09 (17.10.18)
+  Restoring commit took 1767ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:28
+  Running metrics took 448245ms
+Handling (+writing) KH output took 450335ms
+Processing 195 of 722 at 05:37:39 (17.10.18)
+  Restoring commit took 28140ms
+Handling (+writing) KH output took 28329ms
+Processing 196 of 722 at 05:38:07 (17.10.18)
+  Restoring commit took 27030ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:03
+  Running metrics took 483016ms
+Handling (+writing) KH output took 510221ms
+Processing 197 of 722 at 05:46:37 (17.10.18)
+  Restoring commit took 35798ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600581ms
+Handling (+writing) KH output took 636557ms
+Processing 198 of 722 at 05:57:14 (17.10.18)
+  Restoring commit took 4495ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:14
+  Running metrics took 494469ms
+Handling (+writing) KH output took 499163ms
+Processing 199 of 722 at 06:05:33 (17.10.18)
+Handling (+writing) KH output took 2667ms
+Processing 200 of 722 at 06:05:36 (17.10.18)
+Handling (+writing) KH output took 3083ms
+Processing 201 of 722 at 06:05:39 (17.10.18)
+  Restoring commit took 36089ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600654ms
+Handling (+writing) KH output took 637534ms
+Processing 202 of 722 at 06:16:16 (17.10.18)
+Handling (+writing) KH output took 2231ms
+Processing 203 of 722 at 06:16:19 (17.10.18)
+Handling (+writing) KH output took 3850ms
+Processing 204 of 722 at 06:16:22 (17.10.18)
+  Restoring commit took 3988ms
+Handling (+writing) KH output took 4023ms
+Processing 205 of 722 at 06:16:27 (17.10.18)
+  Restoring commit took 27560ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:50
+  Running metrics took 470727ms
+Handling (+writing) KH output took 498394ms
+Processing 206 of 722 at 06:24:45 (17.10.18)
+  Restoring commit took 14458ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:59
+  Running metrics took 479078ms
+Handling (+writing) KH output took 493759ms
+Processing 207 of 722 at 06:32:59 (17.10.18)
+  Restoring commit took 40004ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:36
+  Running metrics took 516171ms
+Handling (+writing) KH output took 556463ms
+Processing 208 of 722 at 06:42:15 (17.10.18)
+Handling (+writing) KH output took 2436ms
+Processing 209 of 722 at 06:42:18 (17.10.18)
+  Restoring commit took 1706ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:10
+  Running metrics took 490750ms
+Handling (+writing) KH output took 492562ms
+Processing 210 of 722 at 06:50:30 (17.10.18)
+Handling (+writing) KH output took 2656ms
+Processing 211 of 722 at 06:50:33 (17.10.18)
+  Restoring commit took 1257ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:13
+  Running metrics took 493176ms
+Handling (+writing) KH output took 494659ms
+Processing 212 of 722 at 06:58:47 (17.10.18)
+Handling (+writing) KH output took 2754ms
+Processing 213 of 722 at 06:58:50 (17.10.18)
+  Restoring commit took 3181ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:06:51
+  Running metrics took 411281ms
+Handling (+writing) KH output took 414792ms
+Processing 214 of 722 at 07:05:45 (17.10.18)
+  Restoring commit took 25834ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:06:44
+  Running metrics took 404357ms
+Handling (+writing) KH output took 430420ms
+Processing 215 of 722 at 07:12:55 (17.10.18)
+  Restoring commit took 1286ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:39
+  Running metrics took 459087ms
+Handling (+writing) KH output took 460564ms
+Processing 216 of 722 at 07:20:36 (17.10.18)
+  Restoring commit took 30093ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600662ms
+Handling (+writing) KH output took 631043ms
+Processing 217 of 722 at 07:31:07 (17.10.18)
+  Restoring commit took 768ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600672ms
+Handling (+writing) KH output took 601748ms
+Processing 218 of 722 at 07:41:09 (17.10.18)
+  Restoring commit took 70007ms
+Handling (+writing) KH output took 70159ms
+Processing 219 of 722 at 07:42:19 (17.10.18)
+  Restoring commit took 41023ms
+Handling (+writing) KH output took 41112ms
+Processing 220 of 722 at 07:43:00 (17.10.18)
+  Restoring commit took 570ms
+Handling (+writing) KH output took 1023ms
+Processing 221 of 722 at 07:43:01 (17.10.18)
+Handling (+writing) KH output took 2771ms
+Processing 222 of 722 at 07:43:04 (17.10.18)
+Handling (+writing) KH output took 21364ms
+Processing 223 of 722 at 07:43:25 (17.10.18)
+  Restoring commit took 43380ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600647ms
+Handling (+writing) KH output took 644069ms
+Processing 224 of 722 at 07:54:09 (17.10.18)
+  Restoring commit took 4929ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:09
+  Running metrics took 429407ms
+Handling (+writing) KH output took 434432ms
+Processing 225 of 722 at 08:01:24 (17.10.18)
+  Restoring commit took 3465ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600758ms
+Handling (+writing) KH output took 604266ms
+Processing 226 of 722 at 08:11:28 (17.10.18)
+Handling (+writing) KH output took 2599ms
+Processing 227 of 722 at 08:11:31 (17.10.18)
+  Restoring commit took 24954ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:06
+  Running metrics took 486853ms
+Handling (+writing) KH output took 511924ms
+Processing 228 of 722 at 08:20:02 (17.10.18)
+  Restoring commit took 3851ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600659ms
+Handling (+writing) KH output took 604773ms
+Processing 229 of 722 at 08:30:07 (17.10.18)
+  Restoring commit took 30958ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:41
+  Running metrics took 461940ms
+Handling (+writing) KH output took 492965ms
+Processing 230 of 722 at 08:38:20 (17.10.18)
+Handling (+writing) KH output took 36611ms
+Processing 231 of 722 at 08:38:57 (17.10.18)
+  Restoring commit took 25318ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:03
+  Running metrics took 483527ms
+Handling (+writing) KH output took 508981ms
+Processing 232 of 722 at 08:47:26 (17.10.18)
+  Restoring commit took 33626ms
+Handling (+writing) KH output took 33852ms
+Processing 233 of 722 at 08:48:00 (17.10.18)
+  Restoring commit took 34490ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:40
+  Running metrics took 460345ms
+Handling (+writing) KH output took 494941ms
+Processing 234 of 722 at 08:56:15 (17.10.18)
+  Restoring commit took 2286ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:32
+  Running metrics took 452637ms
+Handling (+writing) KH output took 455009ms
+Processing 235 of 722 at 09:03:50 (17.10.18)
+  Restoring commit took 2132ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:00
+  Running metrics took 480003ms
+Handling (+writing) KH output took 482258ms
+Processing 236 of 722 at 09:11:52 (17.10.18)
+  Restoring commit took 32348ms
+Handling (+writing) KH output took 32489ms
+Processing 237 of 722 at 09:12:24 (17.10.18)
+  Restoring commit took 30601ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600528ms
+Handling (+writing) KH output took 631527ms
+Processing 238 of 722 at 09:22:56 (17.10.18)
+  Restoring commit took 1151ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600700ms
+Handling (+writing) KH output took 601975ms
+Processing 239 of 722 at 09:32:58 (17.10.18)
+  Restoring commit took 32700ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600700ms
+Handling (+writing) KH output took 633468ms
+Processing 240 of 722 at 09:43:31 (17.10.18)
+  Restoring commit took 26387ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:06:57
+  Running metrics took 417115ms
+Handling (+writing) KH output took 443551ms
+Processing 241 of 722 at 09:50:55 (17.10.18)
+  Restoring commit took 1552ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:48
+  Running metrics took 468405ms
+Handling (+writing) KH output took 470023ms
+Processing 242 of 722 at 09:58:45 (17.10.18)
+  Restoring commit took 25230ms
+Handling (+writing) KH output took 25334ms
+Processing 243 of 722 at 09:59:10 (17.10.18)
+Handling (+writing) KH output took 11068ms
+Processing 244 of 722 at 09:59:21 (17.10.18)
+Handling (+writing) KH output took 3691ms
+Processing 245 of 722 at 09:59:25 (17.10.18)
+  Restoring commit took 52070ms
+Handling (+writing) KH output took 52136ms
+Processing 246 of 722 at 10:00:17 (17.10.18)
+Handling (+writing) KH output took 5436ms
+Processing 247 of 722 at 10:00:23 (17.10.18)
+Handling (+writing) KH output took 74704ms
+Processing 248 of 722 at 10:01:37 (17.10.18)
+  Restoring commit took 30152ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:44
+  Running metrics took 464110ms
+Handling (+writing) KH output took 494356ms
+Processing 249 of 722 at 10:09:52 (17.10.18)
+  Restoring commit took 10697ms
+Handling (+writing) KH output took 10818ms
+Processing 250 of 722 at 10:10:02 (17.10.18)
+  Restoring commit took 44122ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:25
+  Running metrics took 505222ms
+Handling (+writing) KH output took 549480ms
+Processing 251 of 722 at 10:19:12 (17.10.18)
+Handling (+writing) KH output took 43334ms
+Processing 252 of 722 at 10:19:55 (17.10.18)
+  Restoring commit took 33947ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:43
+  Running metrics took 463404ms
+Handling (+writing) KH output took 497591ms
+Processing 253 of 722 at 10:28:13 (17.10.18)
+  Restoring commit took 25631ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:19
+  Running metrics took 439388ms
+Handling (+writing) KH output took 465135ms
+Processing 254 of 722 at 10:35:58 (17.10.18)
+Handling (+writing) KH output took 221661ms
+Processing 255 of 722 at 10:39:40 (17.10.18)
+  Restoring commit took 35343ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600669ms
+Handling (+writing) KH output took 636053ms
+Processing 256 of 722 at 10:50:16 (17.10.18)
+  Restoring commit took 5725ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:14
+  Running metrics took 434065ms
+Handling (+writing) KH output took 440038ms
+Processing 257 of 722 at 10:57:36 (17.10.18)
+  Restoring commit took 37586ms
+Handling (+writing) KH output took 37722ms
+Processing 258 of 722 at 10:58:13 (17.10.18)
+Handling (+writing) KH output took 3032ms
+Processing 259 of 722 at 10:58:17 (17.10.18)
+  Restoring commit took 121947ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:25
+  Running metrics took 445919ms
+Handling (+writing) KH output took 568000ms
+Processing 260 of 722 at 11:07:45 (17.10.18)
+  Restoring commit took 842ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:54
+  Running metrics took 474220ms
+Handling (+writing) KH output took 475227ms
+Processing 261 of 722 at 11:15:40 (17.10.18)
+Handling (+writing) KH output took 2920ms
+Processing 262 of 722 at 11:15:43 (17.10.18)
+  Restoring commit took 25513ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:01
+  Running metrics took 481285ms
+Handling (+writing) KH output took 507637ms
+Processing 263 of 722 at 11:24:10 (17.10.18)
+Handling (+writing) KH output took 3911ms
+Processing 264 of 722 at 11:24:14 (17.10.18)
+Handling (+writing) KH output took 2483ms
+Processing 265 of 722 at 11:24:17 (17.10.18)
+Handling (+writing) KH output took 2792ms
+Processing 266 of 722 at 11:24:19 (17.10.18)
+Handling (+writing) KH output took 2728ms
+Processing 267 of 722 at 11:24:22 (17.10.18)
+Handling (+writing) KH output took 2849ms
+Processing 268 of 722 at 11:24:25 (17.10.18)
+Handling (+writing) KH output took 2437ms
+Processing 269 of 722 at 11:24:28 (17.10.18)
+Handling (+writing) KH output took 2634ms
+Processing 270 of 722 at 11:24:30 (17.10.18)
+Handling (+writing) KH output took 2884ms
+Processing 271 of 722 at 11:24:33 (17.10.18)
+Handling (+writing) KH output took 2500ms
+Processing 272 of 722 at 11:24:36 (17.10.18)
+  Restoring commit took 25510ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:11
+  Running metrics took 491755ms
+Handling (+writing) KH output took 519962ms
+Processing 273 of 722 at 11:33:15 (17.10.18)
+Handling (+writing) KH output took 2670ms
+Processing 274 of 722 at 11:33:18 (17.10.18)
+  Restoring commit took 1525ms
+Handling (+writing) KH output took 1688ms
+Processing 275 of 722 at 11:33:20 (17.10.18)
+  Restoring commit took 24741ms
+Handling (+writing) KH output took 24981ms
+Processing 276 of 722 at 11:33:45 (17.10.18)
+  Restoring commit took 972ms
+Handling (+writing) KH output took 1047ms
+Processing 277 of 722 at 11:33:46 (17.10.18)
+Handling (+writing) KH output took 34186ms
+Processing 278 of 722 at 11:34:20 (17.10.18)
+Handling (+writing) KH output took 2623ms
+Processing 279 of 722 at 11:34:23 (17.10.18)
+Handling (+writing) KH output took 110062ms
+Processing 280 of 722 at 11:36:13 (17.10.18)
+Handling (+writing) KH output took 3820ms
+Processing 281 of 722 at 11:36:17 (17.10.18)
+Handling (+writing) KH output took 30955ms
+Processing 282 of 722 at 11:36:48 (17.10.18)
+  Restoring commit took 27913ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:44
+  Running metrics took 464483ms
+Handling (+writing) KH output took 492474ms
+Processing 283 of 722 at 11:45:00 (17.10.18)
+Handling (+writing) KH output took 3255ms
+Processing 284 of 722 at 11:45:03 (17.10.18)
+  Restoring commit took 2719ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:53
+  Running metrics took 473849ms
+Handling (+writing) KH output took 476785ms
+Processing 285 of 722 at 11:53:00 (17.10.18)
+  Restoring commit took 31661ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600578ms
+Handling (+writing) KH output took 632239ms
+Processing 286 of 722 at 12:03:32 (17.10.18)
+Handling (+writing) KH output took 41234ms
+Processing 287 of 722 at 12:04:14 (17.10.18)
+Handling (+writing) KH output took 3135ms
+Processing 288 of 722 at 12:04:17 (17.10.18)
+  Restoring commit took 7920ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:05
+  Running metrics took 485114ms
+Handling (+writing) KH output took 493290ms
+Processing 289 of 722 at 12:12:30 (17.10.18)
+  Restoring commit took 2388ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:03
+  Running metrics took 483652ms
+Handling (+writing) KH output took 486116ms
+Processing 290 of 722 at 12:20:36 (17.10.18)
+Handling (+writing) KH output took 4214ms
+Processing 291 of 722 at 12:20:40 (17.10.18)
+Handling (+writing) KH output took 4029ms
+Processing 292 of 722 at 12:20:44 (17.10.18)
+  Restoring commit took 26754ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:40
+  Running metrics took 520757ms
+Handling (+writing) KH output took 547628ms
+Processing 293 of 722 at 12:29:52 (17.10.18)
+  Restoring commit took 31414ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:16
+  Running metrics took 556012ms
+Handling (+writing) KH output took 587631ms
+Processing 294 of 722 at 12:39:40 (17.10.18)
+  Restoring commit took 34785ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:22
+  Running metrics took 562244ms
+Handling (+writing) KH output took 597090ms
+Processing 295 of 722 at 12:49:37 (17.10.18)
+Handling (+writing) KH output took 24500ms
+Processing 296 of 722 at 12:50:01 (17.10.18)
+  Restoring commit took 1044ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:44
+  Running metrics took 584679ms
+Handling (+writing) KH output took 585790ms
+Processing 297 of 722 at 12:59:47 (17.10.18)
+  Restoring commit took 28149ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600683ms
+Handling (+writing) KH output took 629465ms
+Processing 298 of 722 at 13:10:16 (17.10.18)
+  Restoring commit took 1329ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600840ms
+Handling (+writing) KH output took 602329ms
+Processing 299 of 722 at 13:20:19 (17.10.18)
+  Restoring commit took 29272ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:05
+  Running metrics took 545848ms
+Handling (+writing) KH output took 575396ms
+Processing 300 of 722 at 13:29:54 (17.10.18)
+  Restoring commit took 30488ms
+Handling (+writing) KH output took 30564ms
+Processing 301 of 722 at 13:30:25 (17.10.18)
+Handling (+writing) KH output took 4663ms
+Processing 302 of 722 at 13:30:29 (17.10.18)
+Handling (+writing) KH output took 24635ms
+Processing 303 of 722 at 13:30:54 (17.10.18)
+  Restoring commit took 28506ms
+Handling (+writing) KH output took 28548ms
+Processing 304 of 722 at 13:31:23 (17.10.18)
+  Restoring commit took 53144ms
+    1 files produced, start merging them
+    Read file: 1 (660699 bytes)
+  Metric execution (+ merging 1 results) took 00:07:35
+  Running metrics took 455142ms
+Handling (+writing) KH output took 508522ms
+Processing 305 of 722 at 13:39:51 (17.10.18)
+Handling (+writing) KH output took 2678ms
+Processing 306 of 722 at 13:39:54 (17.10.18)
+  Restoring commit took 62036ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:47
+  Running metrics took 587846ms
+Handling (+writing) KH output took 650422ms
+Processing 307 of 722 at 13:50:44 (17.10.18)
+  Restoring commit took 30726ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:17
+  Running metrics took 557410ms
+Handling (+writing) KH output took 588567ms
+Processing 308 of 722 at 14:00:33 (17.10.18)
+  Restoring commit took 29058ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:20
+  Running metrics took 560337ms
+Handling (+writing) KH output took 589542ms
+Processing 309 of 722 at 14:10:22 (17.10.18)
+  Restoring commit took 1172ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:15
+  Running metrics took 555860ms
+Handling (+writing) KH output took 557171ms
+Processing 310 of 722 at 14:19:39 (17.10.18)
+  Restoring commit took 1762ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:55
+  Running metrics took 535511ms
+Handling (+writing) KH output took 537363ms
+Processing 311 of 722 at 14:28:37 (17.10.18)
+Handling (+writing) KH output took 3069ms
+Processing 312 of 722 at 14:28:40 (17.10.18)
+  Restoring commit took 3028ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:08
+  Running metrics took 548582ms
+Handling (+writing) KH output took 551733ms
+Processing 313 of 722 at 14:37:52 (17.10.18)
+  Restoring commit took 23900ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:10
+  Running metrics took 550980ms
+Handling (+writing) KH output took 575010ms
+Processing 314 of 722 at 14:47:27 (17.10.18)
+  Restoring commit took 26637ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:51
+  Running metrics took 531814ms
+Handling (+writing) KH output took 558500ms
+Processing 315 of 722 at 14:56:45 (17.10.18)
+  Restoring commit took 894ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:45
+  Running metrics took 585556ms
+Handling (+writing) KH output took 586510ms
+Processing 316 of 722 at 15:06:32 (17.10.18)
+Handling (+writing) KH output took 2791ms
+Processing 317 of 722 at 15:06:34 (17.10.18)
+Handling (+writing) KH output took 19284ms
+Processing 318 of 722 at 15:06:54 (17.10.18)
+  Restoring commit took 2252ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:27
+  Running metrics took 567067ms
+Handling (+writing) KH output took 569436ms
+Processing 319 of 722 at 15:16:23 (17.10.18)
+Handling (+writing) KH output took 2772ms
+Processing 320 of 722 at 15:16:26 (17.10.18)
+  Restoring commit took 26117ms
+Handling (+writing) KH output took 26314ms
+Processing 321 of 722 at 15:16:52 (17.10.18)
+  Restoring commit took 1011ms
+Handling (+writing) KH output took 1219ms
+Processing 322 of 722 at 15:16:53 (17.10.18)
+  Restoring commit took 33070ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600684ms
+Handling (+writing) KH output took 634295ms
+Processing 323 of 722 at 15:27:28 (17.10.18)
+Handling (+writing) KH output took 113008ms
+Processing 324 of 722 at 15:29:21 (17.10.18)
+  Restoring commit took 37534ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:21
+  Running metrics took 561688ms
+Handling (+writing) KH output took 599406ms
+Processing 325 of 722 at 15:39:20 (17.10.18)
+Handling (+writing) KH output took 4792ms
+Processing 326 of 722 at 15:39:25 (17.10.18)
+Handling (+writing) KH output took 4095ms
+Processing 327 of 722 at 15:39:29 (17.10.18)
+Handling (+writing) KH output took 4047ms
+Processing 328 of 722 at 15:39:33 (17.10.18)
+  Restoring commit took 26937ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:34
+  Running metrics took 574900ms
+Handling (+writing) KH output took 602058ms
+Processing 329 of 722 at 15:49:35 (17.10.18)
+Handling (+writing) KH output took 4012ms
+Processing 330 of 722 at 15:49:39 (17.10.18)
+Handling (+writing) KH output took 4006ms
+Processing 331 of 722 at 15:49:43 (17.10.18)
+  Restoring commit took 27596ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:38
+  Running metrics took 518865ms
+Handling (+writing) KH output took 546642ms
+Processing 332 of 722 at 15:58:50 (17.10.18)
+  Restoring commit took 18219ms
+    1 files produced, start merging them
+    Read file: 1 (660992 bytes)
+  Metric execution (+ merging 1 results) took 00:08:56
+  Running metrics took 536389ms
+Handling (+writing) KH output took 554964ms
+Processing 333 of 722 at 16:08:05 (17.10.18)
+Handling (+writing) KH output took 8584ms
+Processing 334 of 722 at 16:08:13 (17.10.18)
+Handling (+writing) KH output took 4203ms
+Processing 335 of 722 at 16:08:18 (17.10.18)
+Handling (+writing) KH output took 4092ms
+Processing 336 of 722 at 16:08:22 (17.10.18)
+  Restoring commit took 40278ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:12
+  Running metrics took 552310ms
+Handling (+writing) KH output took 593588ms
+Processing 337 of 722 at 16:18:15 (17.10.18)
+  Restoring commit took 1243ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:08
+  Running metrics took 488052ms
+Handling (+writing) KH output took 490256ms
+Processing 338 of 722 at 16:26:26 (17.10.18)
+  Restoring commit took 24553ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:26
+  Running metrics took 506177ms
+Handling (+writing) KH output took 531185ms
+Processing 339 of 722 at 16:35:17 (17.10.18)
+Handling (+writing) KH output took 4104ms
+Processing 340 of 722 at 16:35:21 (17.10.18)
+Handling (+writing) KH output took 174ms
+Processing 341 of 722 at 16:35:21 (17.10.18)
+  Restoring commit took 2339ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600705ms
+Handling (+writing) KH output took 603119ms
+Processing 342 of 722 at 16:45:24 (17.10.18)
+  Restoring commit took 26913ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:08
+  Running metrics took 548099ms
+Handling (+writing) KH output took 575564ms
+Processing 343 of 722 at 16:55:00 (17.10.18)
+Handling (+writing) KH output took 4784ms
+Processing 344 of 722 at 16:55:04 (17.10.18)
+Handling (+writing) KH output took 6264ms
+Processing 345 of 722 at 16:55:11 (17.10.18)
+Handling (+writing) KH output took 4471ms
+Processing 346 of 722 at 16:55:15 (17.10.18)
+Handling (+writing) KH output took 4491ms
+Processing 347 of 722 at 16:55:20 (17.10.18)
+  Restoring commit took 79626ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:08
+  Running metrics took 488238ms
+Handling (+writing) KH output took 567979ms
+Processing 348 of 722 at 17:04:48 (17.10.18)
+Handling (+writing) KH output took 116682ms
+Processing 349 of 722 at 17:06:44 (17.10.18)
+Handling (+writing) KH output took 2678ms
+Processing 350 of 722 at 17:06:47 (17.10.18)
+Handling (+writing) KH output took 2644ms
+Processing 351 of 722 at 17:06:50 (17.10.18)
+Handling (+writing) KH output took 2575ms
+Processing 352 of 722 at 17:06:52 (17.10.18)
+  Restoring commit took 18169ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:12
+  Running metrics took 552748ms
+Handling (+writing) KH output took 571060ms
+Processing 353 of 722 at 17:16:23 (17.10.18)
+Handling (+writing) KH output took 234ms
+Processing 354 of 722 at 17:16:24 (17.10.18)
+  Restoring commit took 14441ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600709ms
+Handling (+writing) KH output took 615258ms
+Processing 355 of 722 at 17:26:39 (17.10.18)
+Handling (+writing) KH output took 92711ms
+Processing 356 of 722 at 17:28:11 (17.10.18)
+  Restoring commit took 6629ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:40
+  Running metrics took 520588ms
+Handling (+writing) KH output took 527291ms
+Processing 357 of 722 at 17:36:59 (17.10.18)
+  Restoring commit took 3978ms
+Handling (+writing) KH output took 4207ms
+Processing 358 of 722 at 17:37:03 (17.10.18)
+  Restoring commit took 3248ms
+Handling (+writing) KH output took 3390ms
+Processing 359 of 722 at 17:37:06 (17.10.18)
+  Restoring commit took 601ms
+Handling (+writing) KH output took 650ms
+Processing 360 of 722 at 17:37:07 (17.10.18)
+  Restoring commit took 2500ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:37
+  Running metrics took 517610ms
+Handling (+writing) KH output took 520194ms
+Processing 361 of 722 at 17:45:47 (17.10.18)
+  Restoring commit took 2111ms
+Handling (+writing) KH output took 2712ms
+Processing 362 of 722 at 17:45:50 (17.10.18)
+  Restoring commit took 2374ms
+Handling (+writing) KH output took 2516ms
+Processing 363 of 722 at 17:45:52 (17.10.18)
+Handling (+writing) KH output took 2569ms
+Processing 364 of 722 at 17:45:55 (17.10.18)
+  Restoring commit took 2466ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:47
+  Running metrics took 527547ms
+Handling (+writing) KH output took 530097ms
+Processing 365 of 722 at 17:54:45 (17.10.18)
+  Restoring commit took 1150ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:51
+  Running metrics took 531527ms
+Handling (+writing) KH output took 532829ms
+Processing 366 of 722 at 18:03:38 (17.10.18)
+  Restoring commit took 6388ms
+Handling (+writing) KH output took 6442ms
+Processing 367 of 722 at 18:03:44 (17.10.18)
+  Restoring commit took 18064ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:16
+  Running metrics took 556933ms
+Handling (+writing) KH output took 575161ms
+Processing 368 of 722 at 18:13:20 (17.10.18)
+  Restoring commit took 3186ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:55
+  Running metrics took 535950ms
+Handling (+writing) KH output took 539223ms
+Processing 369 of 722 at 18:22:19 (17.10.18)
+  Restoring commit took 38514ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600709ms
+Handling (+writing) KH output took 639288ms
+Processing 370 of 722 at 18:32:58 (17.10.18)
+  Restoring commit took 140236ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600760ms
+Handling (+writing) KH output took 741071ms
+Processing 371 of 722 at 18:45:19 (17.10.18)
+  Restoring commit took 3410ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600018ms
+Handling (+writing) KH output took 603522ms
+Processing 372 of 722 at 18:55:23 (17.10.18)
+  Restoring commit took 201250ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:06:41
+  Running metrics took 401262ms
+Handling (+writing) KH output took 602632ms
+Processing 373 of 722 at 19:05:25 (17.10.18)
+  Restoring commit took 17444ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:20
+  Running metrics took 500844ms
+Handling (+writing) KH output took 518496ms
+Processing 374 of 722 at 19:14:04 (17.10.18)
+  Restoring commit took 59864ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:18
+  Running metrics took 498759ms
+Handling (+writing) KH output took 558959ms
+Processing 375 of 722 at 19:23:23 (17.10.18)
+Handling (+writing) KH output took 82198ms
+Processing 376 of 722 at 19:24:45 (17.10.18)
+Handling (+writing) KH output took 3936ms
+Processing 377 of 722 at 19:24:49 (17.10.18)
+  Restoring commit took 3236ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:08
+  Running metrics took 548513ms
+Handling (+writing) KH output took 551959ms
+Processing 378 of 722 at 19:34:01 (17.10.18)
+  Restoring commit took 2808ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:27
+  Running metrics took 567570ms
+Handling (+writing) KH output took 570559ms
+Processing 379 of 722 at 19:43:31 (17.10.18)
+  Restoring commit took 2947ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:00
+  Running metrics took 540561ms
+Handling (+writing) KH output took 543583ms
+Processing 380 of 722 at 19:52:35 (17.10.18)
+  Restoring commit took 1393ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:20
+  Running metrics took 560322ms
+Handling (+writing) KH output took 562278ms
+Processing 381 of 722 at 20:01:57 (17.10.18)
+  Restoring commit took 3036ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:44
+  Running metrics took 524213ms
+Handling (+writing) KH output took 527511ms
+Processing 382 of 722 at 20:10:45 (17.10.18)
+  Restoring commit took 27928ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:05
+  Running metrics took 485512ms
+Handling (+writing) KH output took 513546ms
+Processing 383 of 722 at 20:19:18 (17.10.18)
+Handling (+writing) KH output took 3194ms
+Processing 384 of 722 at 20:19:22 (17.10.18)
+  Restoring commit took 27318ms
+Handling (+writing) KH output took 27404ms
+Processing 385 of 722 at 20:19:49 (17.10.18)
+  Restoring commit took 29569ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600658ms
+Handling (+writing) KH output took 630351ms
+Processing 386 of 722 at 20:30:19 (17.10.18)
+  Restoring commit took 4293ms
+Handling (+writing) KH output took 4379ms
+Processing 387 of 722 at 20:30:24 (17.10.18)
+  Restoring commit took 1000ms
+Handling (+writing) KH output took 1159ms
+Processing 388 of 722 at 20:30:25 (17.10.18)
+  Restoring commit took 30318ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:30
+  Running metrics took 510725ms
+Handling (+writing) KH output took 541147ms
+Processing 389 of 722 at 20:39:26 (17.10.18)
+Handling (+writing) KH output took 24874ms
+Processing 390 of 722 at 20:39:51 (17.10.18)
+Handling (+writing) KH output took 33194ms
+Processing 391 of 722 at 20:40:24 (17.10.18)
+Handling (+writing) KH output took 33991ms
+Processing 392 of 722 at 20:40:58 (17.10.18)
+Handling (+writing) KH output took 3767ms
+Processing 393 of 722 at 20:41:02 (17.10.18)
+Handling (+writing) KH output took 22536ms
+Processing 394 of 722 at 20:41:24 (17.10.18)
+Handling (+writing) KH output took 4512ms
+Processing 395 of 722 at 20:41:29 (17.10.18)
+  Restoring commit took 30549ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600826ms
+Handling (+writing) KH output took 631579ms
+Processing 396 of 722 at 20:52:00 (17.10.18)
+  Restoring commit took 38509ms
+Handling (+writing) KH output took 38591ms
+Processing 397 of 722 at 20:52:39 (17.10.18)
+  Restoring commit took 34843ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600718ms
+Handling (+writing) KH output took 635681ms
+Processing 398 of 722 at 21:03:15 (17.10.18)
+  Restoring commit took 43391ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600718ms
+Handling (+writing) KH output took 644498ms
+Processing 399 of 722 at 21:13:59 (17.10.18)
+Handling (+writing) KH output took 10233ms
+Processing 400 of 722 at 21:14:09 (17.10.18)
+  Restoring commit took 25440ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600683ms
+Handling (+writing) KH output took 626218ms
+Processing 401 of 722 at 21:24:36 (17.10.18)
+  Restoring commit took 1695ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600662ms
+Handling (+writing) KH output took 602503ms
+Processing 402 of 722 at 21:34:38 (17.10.18)
+Handling (+writing) KH output took 2479ms
+Processing 403 of 722 at 21:34:41 (17.10.18)
+  Restoring commit took 18128ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:41
+  Running metrics took 581312ms
+Handling (+writing) KH output took 599587ms
+Processing 404 of 722 at 21:44:40 (17.10.18)
+  Restoring commit took 7998ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600668ms
+Handling (+writing) KH output took 608826ms
+Processing 405 of 722 at 21:54:49 (17.10.18)
+  Restoring commit took 27181ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600700ms
+Handling (+writing) KH output took 627975ms
+Processing 406 of 722 at 22:05:17 (17.10.18)
+Handling (+writing) KH output took 15002ms
+Processing 407 of 722 at 22:05:32 (17.10.18)
+  Restoring commit took 24945ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600653ms
+Handling (+writing) KH output took 625711ms
+Processing 408 of 722 at 22:15:58 (17.10.18)
+  Restoring commit took 6528ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:19
+  Running metrics took 559171ms
+Handling (+writing) KH output took 565781ms
+Processing 409 of 722 at 22:25:23 (17.10.18)
+Handling (+writing) KH output took 3110ms
+Processing 410 of 722 at 22:25:27 (17.10.18)
+  Restoring commit took 85744ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:15
+  Running metrics took 495734ms
+Handling (+writing) KH output took 581560ms
+Processing 411 of 722 at 22:35:08 (17.10.18)
+  Restoring commit took 529ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:13
+  Running metrics took 433387ms
+Handling (+writing) KH output took 433979ms
+Processing 412 of 722 at 22:42:22 (17.10.18)
+Handling (+writing) KH output took 13361ms
+Processing 413 of 722 at 22:42:36 (17.10.18)
+  Restoring commit took 46664ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600696ms
+Handling (+writing) KH output took 647516ms
+Processing 414 of 722 at 22:53:23 (17.10.18)
+  Restoring commit took 40135ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600793ms
+Handling (+writing) KH output took 641239ms
+Processing 415 of 722 at 23:04:04 (17.10.18)
+  Restoring commit took 29049ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600782ms
+Handling (+writing) KH output took 630003ms
+Processing 416 of 722 at 23:14:34 (17.10.18)
+  Restoring commit took 36438ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:07
+  Running metrics took 487941ms
+Handling (+writing) KH output took 524444ms
+Processing 417 of 722 at 23:23:19 (17.10.18)
+  Restoring commit took 39617ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:16
+  Running metrics took 436259ms
+Handling (+writing) KH output took 476489ms
+Processing 418 of 722 at 23:31:15 (17.10.18)
+  Restoring commit took 44200ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600558ms
+Handling (+writing) KH output took 644823ms
+Processing 419 of 722 at 23:42:00 (17.10.18)
+  Restoring commit took 40352ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:48
+  Running metrics took 468246ms
+Handling (+writing) KH output took 508909ms
+Processing 420 of 722 at 23:50:29 (17.10.18)
+  Restoring commit took 29339ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600640ms
+Handling (+writing) KH output took 630130ms
+Processing 421 of 722 at 00:00:59 (18.10.18)
+  Restoring commit took 733ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600689ms
+Handling (+writing) KH output took 601601ms
+Processing 422 of 722 at 00:11:01 (18.10.18)
+  Restoring commit took 26250ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600666ms
+Handling (+writing) KH output took 627093ms
+Processing 423 of 722 at 00:21:28 (18.10.18)
+  Restoring commit took 5600ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:00
+  Running metrics took 480523ms
+Handling (+writing) KH output took 486176ms
+Processing 424 of 722 at 00:29:34 (18.10.18)
+  Restoring commit took 2631ms
+Handling (+writing) KH output took 2706ms
+Processing 425 of 722 at 00:29:37 (18.10.18)
+  Restoring commit took 572ms
+Handling (+writing) KH output took 649ms
+Processing 426 of 722 at 00:29:37 (18.10.18)
+  Restoring commit took 39858ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600814ms
+Handling (+writing) KH output took 640718ms
+Processing 427 of 722 at 00:40:18 (18.10.18)
+  Restoring commit took 5261ms
+Handling (+writing) KH output took 5372ms
+Processing 428 of 722 at 00:40:23 (18.10.18)
+  Restoring commit took 40406ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600671ms
+Handling (+writing) KH output took 641709ms
+Processing 429 of 722 at 00:51:05 (18.10.18)
+Handling (+writing) KH output took 17040ms
+Processing 430 of 722 at 00:51:22 (18.10.18)
+Handling (+writing) KH output took 3320ms
+Processing 431 of 722 at 00:51:25 (18.10.18)
+Handling (+writing) KH output took 3254ms
+Processing 432 of 722 at 00:51:29 (18.10.18)
+Handling (+writing) KH output took 3152ms
+Processing 433 of 722 at 00:51:32 (18.10.18)
+Handling (+writing) KH output took 2629ms
+Processing 434 of 722 at 00:51:34 (18.10.18)
+Handling (+writing) KH output took 3356ms
+Processing 435 of 722 at 00:51:38 (18.10.18)
+Handling (+writing) KH output took 3324ms
+Processing 436 of 722 at 00:51:41 (18.10.18)
+  Restoring commit took 25773ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600708ms
+Handling (+writing) KH output took 626612ms
+Processing 437 of 722 at 01:02:08 (18.10.18)
+  Restoring commit took 6028ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:07
+  Running metrics took 487416ms
+Handling (+writing) KH output took 493487ms
+Processing 438 of 722 at 01:10:21 (18.10.18)
+Handling (+writing) KH output took 2981ms
+Processing 439 of 722 at 01:10:24 (18.10.18)
+  Restoring commit took 31219ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600679ms
+Handling (+writing) KH output took 632125ms
+Processing 440 of 722 at 01:20:56 (18.10.18)
+  Restoring commit took 37661ms
+Handling (+writing) KH output took 37746ms
+Processing 441 of 722 at 01:21:34 (18.10.18)
+  Restoring commit took 34304ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:42
+  Running metrics took 462467ms
+Handling (+writing) KH output took 496910ms
+Processing 442 of 722 at 01:29:51 (18.10.18)
+  Restoring commit took 39252ms
+Handling (+writing) KH output took 39295ms
+Processing 443 of 722 at 01:30:30 (18.10.18)
+Handling (+writing) KH output took 3250ms
+Processing 444 of 722 at 01:30:34 (18.10.18)
+Handling (+writing) KH output took 3302ms
+Processing 445 of 722 at 01:30:37 (18.10.18)
+  Restoring commit took 869ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:50
+  Running metrics took 470793ms
+Handling (+writing) KH output took 471918ms
+Processing 446 of 722 at 01:38:29 (18.10.18)
+  Restoring commit took 25241ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:49
+  Running metrics took 469956ms
+Handling (+writing) KH output took 495796ms
+Processing 447 of 722 at 01:46:45 (18.10.18)
+  Restoring commit took 29762ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600655ms
+Handling (+writing) KH output took 630540ms
+Processing 448 of 722 at 01:57:15 (18.10.18)
+Handling (+writing) KH output took 3474ms
+Processing 449 of 722 at 01:57:19 (18.10.18)
+Handling (+writing) KH output took 2615ms
+Processing 450 of 722 at 01:57:21 (18.10.18)
+  Restoring commit took 1301ms
+Handling (+writing) KH output took 1457ms
+Processing 451 of 722 at 01:57:23 (18.10.18)
+Handling (+writing) KH output took 3181ms
+Processing 452 of 722 at 01:57:26 (18.10.18)
+Handling (+writing) KH output took 2630ms
+Processing 453 of 722 at 01:57:28 (18.10.18)
+  Restoring commit took 27331ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600644ms
+Handling (+writing) KH output took 628254ms
+Processing 454 of 722 at 02:07:57 (18.10.18)
+  Restoring commit took 781ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600716ms
+Handling (+writing) KH output took 601752ms
+Processing 455 of 722 at 02:17:58 (18.10.18)
+  Restoring commit took 42285ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:02
+  Running metrics took 482558ms
+Handling (+writing) KH output took 524910ms
+Processing 456 of 722 at 02:26:43 (18.10.18)
+  Restoring commit took 5384ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600740ms
+Handling (+writing) KH output took 606318ms
+Processing 457 of 722 at 02:36:50 (18.10.18)
+Handling (+writing) KH output took 3144ms
+Processing 458 of 722 at 02:36:53 (18.10.18)
+Handling (+writing) KH output took 6583ms
+Processing 459 of 722 at 02:36:59 (18.10.18)
+  Restoring commit took 3364ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600701ms
+Handling (+writing) KH output took 604191ms
+Processing 460 of 722 at 02:47:04 (18.10.18)
+Handling (+writing) KH output took 48307ms
+Processing 461 of 722 at 02:47:52 (18.10.18)
+  Restoring commit took 5624ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:35
+  Running metrics took 455857ms
+Handling (+writing) KH output took 461549ms
+Processing 462 of 722 at 02:55:33 (18.10.18)
+  Restoring commit took 3126ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:26
+  Running metrics took 506382ms
+Handling (+writing) KH output took 509568ms
+Processing 463 of 722 at 03:04:03 (18.10.18)
+Handling (+writing) KH output took 3248ms
+Processing 464 of 722 at 03:04:06 (18.10.18)
+  Restoring commit took 41975ms
+Handling (+writing) KH output took 42080ms
+Processing 465 of 722 at 03:04:48 (18.10.18)
+Handling (+writing) KH output took 3255ms
+Processing 466 of 722 at 03:04:52 (18.10.18)
+Handling (+writing) KH output took 3041ms
+Processing 467 of 722 at 03:04:55 (18.10.18)
+Handling (+writing) KH output took 3234ms
+Processing 468 of 722 at 03:04:58 (18.10.18)
+Handling (+writing) KH output took 3213ms
+Processing 469 of 722 at 03:05:01 (18.10.18)
+Handling (+writing) KH output took 3138ms
+Processing 470 of 722 at 03:05:04 (18.10.18)
+Handling (+writing) KH output took 3123ms
+Processing 471 of 722 at 03:05:07 (18.10.18)
+Handling (+writing) KH output took 3116ms
+Processing 472 of 722 at 03:05:11 (18.10.18)
+Handling (+writing) KH output took 2990ms
+Processing 473 of 722 at 03:05:14 (18.10.18)
+Handling (+writing) KH output took 3107ms
+Processing 474 of 722 at 03:05:17 (18.10.18)
+Handling (+writing) KH output took 3042ms
+Processing 475 of 722 at 03:05:20 (18.10.18)
+  Restoring commit took 25163ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600647ms
+Handling (+writing) KH output took 625863ms
+Processing 476 of 722 at 03:15:46 (18.10.18)
+  Restoring commit took 11604ms
+    1 files produced, start merging them
+    Read file: 1 (694634 bytes)
+  Metric execution (+ merging 2 results) took 00:06:18
+  Running metrics took 378321ms
+Handling (+writing) KH output took 390266ms
+Processing 477 of 722 at 03:22:16 (18.10.18)
+Handling (+writing) KH output took 11727ms
+Processing 478 of 722 at 03:22:28 (18.10.18)
+  Restoring commit took 43644ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600642ms
+Handling (+writing) KH output took 644474ms
+Processing 479 of 722 at 03:33:12 (18.10.18)
+  Restoring commit took 11278ms
+    1 files produced, start merging them
+    Read file: 1 (751663 bytes)
+  Metric execution (+ merging 4 results) took 00:06:54
+  Running metrics took 414497ms
+Handling (+writing) KH output took 425941ms
+Processing 480 of 722 at 03:40:18 (18.10.18)
+  Restoring commit took 456ms
+Handling (+writing) KH output took 744ms
+Processing 481 of 722 at 03:40:19 (18.10.18)
+  Restoring commit took 50015ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:06:46
+  Running metrics took 406335ms
+Handling (+writing) KH output took 456464ms
+Processing 482 of 722 at 03:47:55 (18.10.18)
+  Restoring commit took 9391ms
+Handling (+writing) KH output took 9428ms
+Processing 483 of 722 at 03:48:05 (18.10.18)
+Handling (+writing) KH output took 3337ms
+Processing 484 of 722 at 03:48:08 (18.10.18)
+Handling (+writing) KH output took 60619ms
+Processing 485 of 722 at 03:49:09 (18.10.18)
+Handling (+writing) KH output took 3181ms
+Processing 486 of 722 at 03:49:12 (18.10.18)
+  Restoring commit took 35875ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:06:57
+  Running metrics took 417379ms
+Handling (+writing) KH output took 453321ms
+Processing 487 of 722 at 03:56:45 (18.10.18)
+Handling (+writing) KH output took 6789ms
+Processing 488 of 722 at 03:56:52 (18.10.18)
+Handling (+writing) KH output took 13955ms
+Processing 489 of 722 at 03:57:06 (18.10.18)
+Handling (+writing) KH output took 3189ms
+Processing 490 of 722 at 03:57:09 (18.10.18)
+  Restoring commit took 51431ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:05:40
+  Running metrics took 340407ms
+Handling (+writing) KH output took 391978ms
+Processing 491 of 722 at 04:03:41 (18.10.18)
+Handling (+writing) KH output took 3620ms
+Processing 492 of 722 at 04:03:45 (18.10.18)
+Handling (+writing) KH output took 2628ms
+Processing 493 of 722 at 04:03:47 (18.10.18)
+  Restoring commit took 30233ms
+Handling (+writing) KH output took 30491ms
+Processing 494 of 722 at 04:04:18 (18.10.18)
+Handling (+writing) KH output took 38142ms
+Processing 495 of 722 at 04:04:56 (18.10.18)
+Handling (+writing) KH output took 37057ms
+Processing 496 of 722 at 04:05:33 (18.10.18)
+Handling (+writing) KH output took 3483ms
+Processing 497 of 722 at 04:05:36 (18.10.18)
+  Restoring commit took 9692ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:06:40
+  Running metrics took 400005ms
+Handling (+writing) KH output took 409739ms
+Processing 498 of 722 at 04:12:26 (18.10.18)
+Handling (+writing) KH output took 3880ms
+Processing 499 of 722 at 04:12:30 (18.10.18)
+Handling (+writing) KH output took 7220ms
+Processing 500 of 722 at 04:12:37 (18.10.18)
+Handling (+writing) KH output took 3762ms
+Processing 501 of 722 at 04:12:41 (18.10.18)
+Handling (+writing) KH output took 3284ms
+Processing 502 of 722 at 04:12:44 (18.10.18)
+Handling (+writing) KH output took 3657ms
+Processing 503 of 722 at 04:12:48 (18.10.18)
+  Restoring commit took 28351ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:05:53
+  Running metrics took 353611ms
+Handling (+writing) KH output took 382121ms
+Processing 504 of 722 at 04:19:10 (18.10.18)
+Handling (+writing) KH output took 3015ms
+Processing 505 of 722 at 04:19:13 (18.10.18)
+  Restoring commit took 5161ms
+Handling (+writing) KH output took 5290ms
+Processing 506 of 722 at 04:19:18 (18.10.18)
+Handling (+writing) KH output took 3380ms
+Processing 507 of 722 at 04:19:22 (18.10.18)
+  Restoring commit took 30228ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:06:09
+  Running metrics took 369237ms
+Handling (+writing) KH output took 399573ms
+Processing 508 of 722 at 04:26:01 (18.10.18)
+Handling (+writing) KH output took 3038ms
+Processing 509 of 722 at 04:26:04 (18.10.18)
+Handling (+writing) KH output took 86573ms
+Processing 510 of 722 at 04:27:31 (18.10.18)
+Handling (+writing) KH output took 170802ms
+Processing 511 of 722 at 04:30:22 (18.10.18)
+Handling (+writing) KH output took 4558ms
+Processing 512 of 722 at 04:30:26 (18.10.18)
+  Restoring commit took 26841ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:05:46
+  Running metrics took 346957ms
+Handling (+writing) KH output took 373946ms
+Processing 513 of 722 at 04:36:40 (18.10.18)
+  Restoring commit took 878ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:05:54
+  Running metrics took 354726ms
+Handling (+writing) KH output took 355754ms
+Processing 514 of 722 at 04:42:36 (18.10.18)
+Handling (+writing) KH output took 4825ms
+Processing 515 of 722 at 04:42:41 (18.10.18)
+  Restoring commit took 25977ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:05:49
+  Running metrics took 349619ms
+Handling (+writing) KH output took 375657ms
+Processing 516 of 722 at 04:48:56 (18.10.18)
+  Restoring commit took 1557ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:05:59
+  Running metrics took 359725ms
+Handling (+writing) KH output took 361326ms
+Processing 517 of 722 at 04:54:58 (18.10.18)
+Handling (+writing) KH output took 3765ms
+Processing 518 of 722 at 04:55:02 (18.10.18)
+Handling (+writing) KH output took 3773ms
+Processing 519 of 722 at 04:55:05 (18.10.18)
+  Restoring commit took 29553ms
+Handling (+writing) KH output took 29617ms
+Processing 520 of 722 at 04:55:35 (18.10.18)
+  Restoring commit took 30597ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600568ms
+Handling (+writing) KH output took 631313ms
+Processing 521 of 722 at 05:06:06 (18.10.18)
+Handling (+writing) KH output took 34078ms
+Processing 522 of 722 at 05:06:40 (18.10.18)
+Handling (+writing) KH output took 3196ms
+Processing 523 of 722 at 05:06:43 (18.10.18)
+  Restoring commit took 24207ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600562ms
+Handling (+writing) KH output took 624854ms
+Processing 524 of 722 at 05:17:08 (18.10.18)
+Handling (+writing) KH output took 3264ms
+Processing 525 of 722 at 05:17:12 (18.10.18)
+  Restoring commit took 1314ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600562ms
+Handling (+writing) KH output took 602035ms
+Processing 526 of 722 at 05:27:14 (18.10.18)
+  Restoring commit took 26453ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600572ms
+Handling (+writing) KH output took 627128ms
+Processing 527 of 722 at 05:37:41 (18.10.18)
+Handling (+writing) KH output took 2534ms
+Processing 528 of 722 at 05:37:43 (18.10.18)
+Handling (+writing) KH output took 2580ms
+Processing 529 of 722 at 05:37:46 (18.10.18)
+Handling (+writing) KH output took 2553ms
+Processing 530 of 722 at 05:37:48 (18.10.18)
+  Restoring commit took 1395ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600607ms
+Handling (+writing) KH output took 602176ms
+Processing 531 of 722 at 05:47:51 (18.10.18)
+  Restoring commit took 49420ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:05:33
+  Running metrics took 333285ms
+Handling (+writing) KH output took 382764ms
+Processing 532 of 722 at 05:54:13 (18.10.18)
+  Restoring commit took 478ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:06:10
+  Running metrics took 370836ms
+Handling (+writing) KH output took 371409ms
+Processing 533 of 722 at 06:00:25 (18.10.18)
+  Restoring commit took 76149ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600483ms
+Handling (+writing) KH output took 676879ms
+Processing 534 of 722 at 06:11:42 (18.10.18)
+  Restoring commit took 422ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600556ms
+Handling (+writing) KH output took 601023ms
+Processing 535 of 722 at 06:21:43 (18.10.18)
+  Restoring commit took 985ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600692ms
+Handling (+writing) KH output took 601846ms
+Processing 536 of 722 at 06:31:45 (18.10.18)
+  Restoring commit took 482ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600582ms
+Handling (+writing) KH output took 601278ms
+Processing 537 of 722 at 06:41:46 (18.10.18)
+Handling (+writing) KH output took 33969ms
+Processing 538 of 722 at 06:42:20 (18.10.18)
+  Restoring commit took 28286ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600438ms
+Handling (+writing) KH output took 628786ms
+Processing 539 of 722 at 06:52:49 (18.10.18)
+  Restoring commit took 1665ms
+Handling (+writing) KH output took 1689ms
+Processing 540 of 722 at 06:52:50 (18.10.18)
+Handling (+writing) KH output took 11028ms
+Processing 541 of 722 at 06:53:01 (18.10.18)
+  Restoring commit took 21852ms
+Handling (+writing) KH output took 22038ms
+Processing 542 of 722 at 06:53:23 (18.10.18)
+  Restoring commit took 1937ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600461ms
+Handling (+writing) KH output took 602555ms
+Processing 543 of 722 at 07:03:26 (18.10.18)
+Handling (+writing) KH output took 6047ms
+Processing 544 of 722 at 07:03:32 (18.10.18)
+  Restoring commit took 2052ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600528ms
+Handling (+writing) KH output took 602893ms
+Processing 545 of 722 at 07:13:35 (18.10.18)
+  Restoring commit took 4045ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600599ms
+Handling (+writing) KH output took 604688ms
+Processing 546 of 722 at 07:23:40 (18.10.18)
+Handling (+writing) KH output took 3822ms
+Processing 547 of 722 at 07:23:43 (18.10.18)
+Handling (+writing) KH output took 5035ms
+Processing 548 of 722 at 07:23:48 (18.10.18)
+Handling (+writing) KH output took 4759ms
+Processing 549 of 722 at 07:23:53 (18.10.18)
+Handling (+writing) KH output took 4917ms
+Processing 550 of 722 at 07:23:58 (18.10.18)
+Handling (+writing) KH output took 2558ms
+Processing 551 of 722 at 07:24:01 (18.10.18)
+  Restoring commit took 42815ms
+Handling (+writing) KH output took 42876ms
+Processing 552 of 722 at 07:24:43 (18.10.18)
+Handling (+writing) KH output took 4502ms
+Processing 553 of 722 at 07:24:48 (18.10.18)
+Handling (+writing) KH output took 3098ms
+Processing 554 of 722 at 07:24:51 (18.10.18)
+  Restoring commit took 27479ms
+Handling (+writing) KH output took 27820ms
+Processing 555 of 722 at 07:25:19 (18.10.18)
+  Restoring commit took 790ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600543ms
+Handling (+writing) KH output took 602122ms
+Processing 556 of 722 at 07:35:21 (18.10.18)
+  Restoring commit took 746ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600518ms
+Handling (+writing) KH output took 601757ms
+Processing 557 of 722 at 07:45:23 (18.10.18)
+  Restoring commit took 758ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600576ms
+Handling (+writing) KH output took 601583ms
+Processing 558 of 722 at 07:55:24 (18.10.18)
+  Restoring commit took 726ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600617ms
+Handling (+writing) KH output took 601403ms
+Processing 559 of 722 at 08:05:26 (18.10.18)
+Handling (+writing) KH output took 2775ms
+Processing 560 of 722 at 08:05:29 (18.10.18)
+Handling (+writing) KH output took 32638ms
+Processing 561 of 722 at 08:06:01 (18.10.18)
+  Restoring commit took 849ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600623ms
+Handling (+writing) KH output took 601508ms
+Processing 562 of 722 at 08:16:03 (18.10.18)
+  Restoring commit took 919ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600742ms
+Handling (+writing) KH output took 601792ms
+Processing 563 of 722 at 08:26:04 (18.10.18)
+  Restoring commit took 875ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600650ms
+Handling (+writing) KH output took 601879ms
+Processing 564 of 722 at 08:36:06 (18.10.18)
+Handling (+writing) KH output took 3127ms
+Processing 565 of 722 at 08:36:09 (18.10.18)
+Handling (+writing) KH output took 2902ms
+Processing 566 of 722 at 08:36:12 (18.10.18)
+Handling (+writing) KH output took 172ms
+Processing 567 of 722 at 08:36:13 (18.10.18)
+Handling (+writing) KH output took 31213ms
+Processing 568 of 722 at 08:36:44 (18.10.18)
+Handling (+writing) KH output took 3369ms
+Processing 569 of 722 at 08:36:47 (18.10.18)
+  Restoring commit took 28992ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600704ms
+Handling (+writing) KH output took 630341ms
+Processing 570 of 722 at 08:47:17 (18.10.18)
+  Restoring commit took 1031ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600653ms
+Handling (+writing) KH output took 602250ms
+Processing 571 of 722 at 08:57:20 (18.10.18)
+  Restoring commit took 25780ms
+Handling (+writing) KH output took 25919ms
+Processing 572 of 722 at 08:57:46 (18.10.18)
+  Restoring commit took 26647ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600615ms
+Handling (+writing) KH output took 627601ms
+Processing 573 of 722 at 09:08:13 (18.10.18)
+  Restoring commit took 25720ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600605ms
+Handling (+writing) KH output took 626499ms
+Processing 574 of 722 at 09:18:40 (18.10.18)
+Handling (+writing) KH output took 2691ms
+Processing 575 of 722 at 09:18:42 (18.10.18)
+Handling (+writing) KH output took 2739ms
+Processing 576 of 722 at 09:18:45 (18.10.18)
+Handling (+writing) KH output took 30820ms
+Processing 577 of 722 at 09:19:16 (18.10.18)
+  Restoring commit took 980ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600633ms
+Handling (+writing) KH output took 601655ms
+Processing 578 of 722 at 09:29:18 (18.10.18)
+  Restoring commit took 34736ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:39
+  Running metrics took 519534ms
+Handling (+writing) KH output took 554349ms
+Processing 579 of 722 at 09:38:32 (18.10.18)
+  Restoring commit took 13672ms
+    1 files produced, start merging them
+    Read file: 1 (659662 bytes)
+  Metric execution (+ merging 1 results) took 00:08:22
+  Running metrics took 502046ms
+Handling (+writing) KH output took 515771ms
+Processing 580 of 722 at 09:47:08 (18.10.18)
+Handling (+writing) KH output took 130ms
+Processing 581 of 722 at 09:47:08 (18.10.18)
+Handling (+writing) KH output took 105907ms
+Processing 582 of 722 at 09:48:54 (18.10.18)
+  Restoring commit took 38978ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600646ms
+Handling (+writing) KH output took 639729ms
+Processing 583 of 722 at 09:59:34 (18.10.18)
+  Restoring commit took 28322ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600688ms
+Handling (+writing) KH output took 629080ms
+Processing 584 of 722 at 10:10:03 (18.10.18)
+  Restoring commit took 931ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600735ms
+Handling (+writing) KH output took 601736ms
+Processing 585 of 722 at 10:20:04 (18.10.18)
+  Restoring commit took 1597ms
+Handling (+writing) KH output took 1702ms
+Processing 586 of 722 at 10:20:06 (18.10.18)
+  Restoring commit took 31630ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600728ms
+Handling (+writing) KH output took 632465ms
+Processing 587 of 722 at 10:30:39 (18.10.18)
+  Restoring commit took 816ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600677ms
+Handling (+writing) KH output took 601551ms
+Processing 588 of 722 at 10:40:40 (18.10.18)
+  Restoring commit took 27978ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600644ms
+Handling (+writing) KH output took 628667ms
+Processing 589 of 722 at 10:51:09 (18.10.18)
+  Restoring commit took 939ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600634ms
+Handling (+writing) KH output took 601615ms
+Processing 590 of 722 at 11:01:10 (18.10.18)
+Handling (+writing) KH output took 3531ms
+Processing 591 of 722 at 11:01:14 (18.10.18)
+  Restoring commit took 28992ms
+Handling (+writing) KH output took 29066ms
+Processing 592 of 722 at 11:01:43 (18.10.18)
+Handling (+writing) KH output took 55008ms
+Processing 593 of 722 at 11:02:38 (18.10.18)
+  Restoring commit took 1345ms
+Handling (+writing) KH output took 1438ms
+Processing 594 of 722 at 11:02:39 (18.10.18)
+  Restoring commit took 30739ms
+Handling (+writing) KH output took 30796ms
+Processing 595 of 722 at 11:03:10 (18.10.18)
+  Restoring commit took 32095ms
+Handling (+writing) KH output took 32201ms
+Processing 596 of 722 at 11:03:42 (18.10.18)
+  Restoring commit took 29223ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600621ms
+Handling (+writing) KH output took 630243ms
+Processing 597 of 722 at 11:14:13 (18.10.18)
+  Restoring commit took 29397ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600783ms
+Handling (+writing) KH output took 630215ms
+Processing 598 of 722 at 11:24:43 (18.10.18)
+  Restoring commit took 5946ms
+Handling (+writing) KH output took 6069ms
+Processing 599 of 722 at 11:24:49 (18.10.18)
+  Restoring commit took 41434ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600684ms
+Handling (+writing) KH output took 642636ms
+Processing 600 of 722 at 11:35:32 (18.10.18)
+  Restoring commit took 5569ms
+Handling (+writing) KH output took 5603ms
+Processing 601 of 722 at 11:35:37 (18.10.18)
+  Restoring commit took 33711ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600662ms
+Handling (+writing) KH output took 635455ms
+Processing 602 of 722 at 11:46:13 (18.10.18)
+  Restoring commit took 1356ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600594ms
+Handling (+writing) KH output took 602959ms
+Processing 603 of 722 at 11:56:16 (18.10.18)
+Handling (+writing) KH output took 4280ms
+Processing 604 of 722 at 11:56:20 (18.10.18)
+Handling (+writing) KH output took 3918ms
+Processing 605 of 722 at 11:56:24 (18.10.18)
+Handling (+writing) KH output took 39571ms
+Processing 606 of 722 at 11:57:03 (18.10.18)
+  Restoring commit took 30924ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600657ms
+Handling (+writing) KH output took 631802ms
+Processing 607 of 722 at 12:07:35 (18.10.18)
+  Restoring commit took 26097ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600664ms
+Handling (+writing) KH output took 626835ms
+Processing 608 of 722 at 12:18:02 (18.10.18)
+  Restoring commit took 1799ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600585ms
+Handling (+writing) KH output took 602473ms
+Processing 609 of 722 at 12:28:04 (18.10.18)
+  Restoring commit took 26077ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600786ms
+Handling (+writing) KH output took 626993ms
+Processing 610 of 722 at 12:38:31 (18.10.18)
+  Restoring commit took 30881ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:04
+  Running metrics took 424908ms
+Handling (+writing) KH output took 455968ms
+Processing 611 of 722 at 12:46:07 (18.10.18)
+  Restoring commit took 31655ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600696ms
+Handling (+writing) KH output took 632547ms
+Processing 612 of 722 at 12:56:40 (18.10.18)
+  Restoring commit took 28144ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600686ms
+Handling (+writing) KH output took 628907ms
+Processing 613 of 722 at 13:07:09 (18.10.18)
+  Restoring commit took 39260ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:30
+  Running metrics took 510096ms
+Handling (+writing) KH output took 549465ms
+Processing 614 of 722 at 13:16:18 (18.10.18)
+  Restoring commit took 721ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:41
+  Running metrics took 461554ms
+Handling (+writing) KH output took 462315ms
+Processing 615 of 722 at 13:24:01 (18.10.18)
+  Restoring commit took 34522ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600690ms
+Handling (+writing) KH output took 635383ms
+Processing 616 of 722 at 13:34:36 (18.10.18)
+  Restoring commit took 24541ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:09:06
+  Running metrics took 546826ms
+Handling (+writing) KH output took 571668ms
+Processing 617 of 722 at 13:44:08 (18.10.18)
+  Restoring commit took 24810ms
+Handling (+writing) KH output took 24907ms
+Processing 618 of 722 at 13:44:33 (18.10.18)
+  Restoring commit took 17037ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600771ms
+Handling (+writing) KH output took 618441ms
+Processing 619 of 722 at 13:54:51 (18.10.18)
+  Restoring commit took 17191ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600654ms
+Handling (+writing) KH output took 618191ms
+Processing 620 of 722 at 14:05:09 (18.10.18)
+Handling (+writing) KH output took 5417ms
+Processing 621 of 722 at 14:05:15 (18.10.18)
+Handling (+writing) KH output took 151645ms
+Processing 622 of 722 at 14:07:46 (18.10.18)
+  Restoring commit took 1922ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600850ms
+Handling (+writing) KH output took 603467ms
+Processing 623 of 722 at 14:17:50 (18.10.18)
+Handling (+writing) KH output took 4605ms
+Processing 624 of 722 at 14:17:54 (18.10.18)
+Handling (+writing) KH output took 5475ms
+Processing 625 of 722 at 14:18:00 (18.10.18)
+  Restoring commit took 1973ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600698ms
+Handling (+writing) KH output took 603188ms
+Processing 626 of 722 at 14:28:03 (18.10.18)
+Handling (+writing) KH output took 5256ms
+Processing 627 of 722 at 14:28:08 (18.10.18)
+Handling (+writing) KH output took 51950ms
+Processing 628 of 722 at 14:29:00 (18.10.18)
+  Restoring commit took 18654ms
+Handling (+writing) KH output took 19004ms
+Processing 629 of 722 at 14:29:19 (18.10.18)
+  Restoring commit took 1233ms
+Handling (+writing) KH output took 1597ms
+Processing 630 of 722 at 14:29:21 (18.10.18)
+  Restoring commit took 5475ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:48
+  Running metrics took 468260ms
+Handling (+writing) KH output took 473871ms
+Processing 631 of 722 at 14:37:15 (18.10.18)
+  Restoring commit took 19212ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600626ms
+Handling (+writing) KH output took 620029ms
+Processing 632 of 722 at 14:47:35 (18.10.18)
+  Restoring commit took 14361ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600704ms
+Handling (+writing) KH output took 615125ms
+Processing 633 of 722 at 14:57:50 (18.10.18)
+  Restoring commit took 25516ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:06:37
+  Running metrics took 397971ms
+Handling (+writing) KH output took 423732ms
+Processing 634 of 722 at 15:04:54 (18.10.18)
+  Restoring commit took 811ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:08
+  Running metrics took 428581ms
+Handling (+writing) KH output took 429613ms
+Processing 635 of 722 at 15:12:03 (18.10.18)
+  Restoring commit took 22219ms
+Handling (+writing) KH output took 22247ms
+Processing 636 of 722 at 15:12:25 (18.10.18)
+  Restoring commit took 2600ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600661ms
+Handling (+writing) KH output took 603384ms
+Processing 637 of 722 at 15:22:29 (18.10.18)
+  Restoring commit took 15636ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600608ms
+Handling (+writing) KH output took 616677ms
+Processing 638 of 722 at 15:32:46 (18.10.18)
+  Restoring commit took 13434ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600595ms
+Handling (+writing) KH output took 614141ms
+Processing 639 of 722 at 15:43:00 (18.10.18)
+  Restoring commit took 36459ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:06:37
+  Running metrics took 397522ms
+Handling (+writing) KH output took 434071ms
+Processing 640 of 722 at 15:50:14 (18.10.18)
+  Restoring commit took 21923ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600591ms
+Handling (+writing) KH output took 623119ms
+Processing 641 of 722 at 16:00:37 (18.10.18)
+  Restoring commit took 17221ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:05:33
+  Running metrics took 333797ms
+Handling (+writing) KH output took 351239ms
+Processing 642 of 722 at 16:06:28 (18.10.18)
+  Restoring commit took 14271ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600626ms
+Handling (+writing) KH output took 614952ms
+Processing 643 of 722 at 16:16:43 (18.10.18)
+  Restoring commit took 918ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600629ms
+Handling (+writing) KH output took 601615ms
+Processing 644 of 722 at 16:26:45 (18.10.18)
+  Restoring commit took 46709ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:06:15
+  Running metrics took 375451ms
+Handling (+writing) KH output took 422194ms
+Processing 645 of 722 at 16:33:47 (18.10.18)
+Handling (+writing) KH output took 39365ms
+Processing 646 of 722 at 16:34:26 (18.10.18)
+Handling (+writing) KH output took 2990ms
+Processing 647 of 722 at 16:34:29 (18.10.18)
+Handling (+writing) KH output took 3253ms
+Processing 648 of 722 at 16:34:32 (18.10.18)
+Handling (+writing) KH output took 3462ms
+Processing 649 of 722 at 16:34:36 (18.10.18)
+Handling (+writing) KH output took 14878ms
+Processing 650 of 722 at 16:34:51 (18.10.18)
+  Restoring commit took 19411ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600617ms
+Handling (+writing) KH output took 620188ms
+Processing 651 of 722 at 16:45:11 (18.10.18)
+  Restoring commit took 15355ms
+    1 files produced, start merging them
+    Read file: 1 (706827 bytes)
+  Metric execution (+ merging 2 results) took 00:06:30
+  Running metrics took 390087ms
+Handling (+writing) KH output took 405637ms
+Processing 652 of 722 at 16:51:57 (18.10.18)
+  Restoring commit took 10060ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:06:11
+  Running metrics took 371181ms
+Handling (+writing) KH output took 381413ms
+Processing 653 of 722 at 16:58:18 (18.10.18)
+Handling (+writing) KH output took 2423ms
+Processing 654 of 722 at 16:58:21 (18.10.18)
+  Restoring commit took 7608ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600605ms
+Handling (+writing) KH output took 608359ms
+Processing 655 of 722 at 17:08:29 (18.10.18)
+  Restoring commit took 13314ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600542ms
+Handling (+writing) KH output took 614399ms
+Processing 656 of 722 at 17:18:43 (18.10.18)
+Handling (+writing) KH output took 2328ms
+Processing 657 of 722 at 17:18:46 (18.10.18)
+  Restoring commit took 14954ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600618ms
+Handling (+writing) KH output took 615631ms
+Processing 658 of 722 at 17:29:01 (18.10.18)
+  Restoring commit took 17048ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600579ms
+Handling (+writing) KH output took 617771ms
+Processing 659 of 722 at 17:39:19 (18.10.18)
+  Restoring commit took 788ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600657ms
+Handling (+writing) KH output took 601620ms
+Processing 660 of 722 at 17:49:21 (18.10.18)
+  Restoring commit took 15060ms
+Handling (+writing) KH output took 15104ms
+Processing 661 of 722 at 17:49:36 (18.10.18)
+Handling (+writing) KH output took 14475ms
+Processing 662 of 722 at 17:49:50 (18.10.18)
+  Restoring commit took 14570ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600447ms
+Handling (+writing) KH output took 615180ms
+Processing 663 of 722 at 18:00:05 (18.10.18)
+  Restoring commit took 31364ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:23
+  Running metrics took 443739ms
+Handling (+writing) KH output took 475165ms
+Processing 664 of 722 at 18:08:01 (18.10.18)
+  Restoring commit took 18908ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600621ms
+Handling (+writing) KH output took 620107ms
+Processing 665 of 722 at 18:18:21 (18.10.18)
+  Restoring commit took 14891ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600590ms
+Handling (+writing) KH output took 615586ms
+Processing 666 of 722 at 18:28:36 (18.10.18)
+Handling (+writing) KH output took 2669ms
+Processing 667 of 722 at 18:28:39 (18.10.18)
+  Restoring commit took 13426ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600633ms
+Handling (+writing) KH output took 614232ms
+Processing 668 of 722 at 18:38:53 (18.10.18)
+  Restoring commit took 1661ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600605ms
+Handling (+writing) KH output took 602872ms
+Processing 669 of 722 at 18:48:56 (18.10.18)
+Handling (+writing) KH output took 6296ms
+Processing 670 of 722 at 18:49:02 (18.10.18)
+  Restoring commit took 1809ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600641ms
+Handling (+writing) KH output took 602657ms
+Processing 671 of 722 at 18:59:05 (18.10.18)
+Handling (+writing) KH output took 3536ms
+Processing 672 of 722 at 18:59:08 (18.10.18)
+Handling (+writing) KH output took 3233ms
+Processing 673 of 722 at 18:59:12 (18.10.18)
+Handling (+writing) KH output took 23397ms
+Processing 674 of 722 at 18:59:35 (18.10.18)
+Handling (+writing) KH output took 2682ms
+Processing 675 of 722 at 18:59:38 (18.10.18)
+Handling (+writing) KH output took 3264ms
+Processing 676 of 722 at 18:59:41 (18.10.18)
+Handling (+writing) KH output took 3145ms
+Processing 677 of 722 at 18:59:44 (18.10.18)
+Handling (+writing) KH output took 3348ms
+Processing 678 of 722 at 18:59:48 (18.10.18)
+  Restoring commit took 5138ms
+Handling (+writing) KH output took 5220ms
+Processing 679 of 722 at 18:59:53 (18.10.18)
+  Restoring commit took 3482ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:05:35
+  Running metrics took 335872ms
+Handling (+writing) KH output took 339401ms
+Processing 680 of 722 at 19:05:32 (18.10.18)
+  Restoring commit took 460ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:05:38
+  Running metrics took 338239ms
+Handling (+writing) KH output took 338742ms
+Processing 681 of 722 at 19:11:11 (18.10.18)
+  Restoring commit took 6127ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600682ms
+Handling (+writing) KH output took 607080ms
+Processing 682 of 722 at 19:21:18 (18.10.18)
+  Restoring commit took 1868ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600672ms
+Handling (+writing) KH output took 602584ms
+Processing 683 of 722 at 19:31:21 (18.10.18)
+  Restoring commit took 15996ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600674ms
+Handling (+writing) KH output took 616784ms
+Processing 684 of 722 at 19:41:37 (18.10.18)
+Handling (+writing) KH output took 3748ms
+Processing 685 of 722 at 19:41:41 (18.10.18)
+  Restoring commit took 1207ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600700ms
+Handling (+writing) KH output took 601999ms
+Processing 686 of 722 at 19:51:43 (18.10.18)
+  Restoring commit took 14214ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600698ms
+Handling (+writing) KH output took 615018ms
+Processing 687 of 722 at 20:01:58 (18.10.18)
+Handling (+writing) KH output took 46993ms
+Processing 688 of 722 at 20:02:45 (18.10.18)
+  Restoring commit took 14208ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600757ms
+Handling (+writing) KH output took 615067ms
+Processing 689 of 722 at 20:13:00 (18.10.18)
+  Restoring commit took 1800ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600651ms
+Handling (+writing) KH output took 602615ms
+Processing 690 of 722 at 20:23:03 (18.10.18)
+  Restoring commit took 18972ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600810ms
+Handling (+writing) KH output took 619873ms
+Processing 691 of 722 at 20:33:23 (18.10.18)
+  Restoring commit took 17930ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600706ms
+Handling (+writing) KH output took 618720ms
+Processing 692 of 722 at 20:43:41 (18.10.18)
+  Restoring commit took 10159ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600664ms
+Handling (+writing) KH output took 610857ms
+Processing 693 of 722 at 20:53:52 (18.10.18)
+  Restoring commit took 540ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600650ms
+Handling (+writing) KH output took 601238ms
+Processing 694 of 722 at 21:03:54 (18.10.18)
+  Restoring commit took 3752ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600641ms
+Handling (+writing) KH output took 604492ms
+Processing 695 of 722 at 21:13:58 (18.10.18)
+  Restoring commit took 20496ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:08:17
+  Running metrics took 497769ms
+Handling (+writing) KH output took 518339ms
+Processing 696 of 722 at 21:22:36 (18.10.18)
+Handling (+writing) KH output took 3589ms
+Processing 697 of 722 at 21:22:40 (18.10.18)
+Handling (+writing) KH output took 5828ms
+Processing 698 of 722 at 21:22:46 (18.10.18)
+Handling (+writing) KH output took 4031ms
+Processing 699 of 722 at 21:22:50 (18.10.18)
+Handling (+writing) KH output took 70297ms
+Processing 700 of 722 at 21:24:00 (18.10.18)
+Handling (+writing) KH output took 3944ms
+Processing 701 of 722 at 21:24:04 (18.10.18)
+Handling (+writing) KH output took 3949ms
+Processing 702 of 722 at 21:24:08 (18.10.18)
+Handling (+writing) KH output took 3413ms
+Processing 703 of 722 at 21:24:11 (18.10.18)
+Handling (+writing) KH output took 5637ms
+Processing 704 of 722 at 21:24:17 (18.10.18)
+Handling (+writing) KH output took 5504ms
+Processing 705 of 722 at 21:24:23 (18.10.18)
+  Restoring commit took 17937ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600619ms
+Handling (+writing) KH output took 619211ms
+Processing 706 of 722 at 21:34:42 (18.10.18)
+  Restoring commit took 5510ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:49
+  Running metrics took 469278ms
+Handling (+writing) KH output took 474860ms
+Processing 707 of 722 at 21:42:37 (18.10.18)
+Handling (+writing) KH output took 5072ms
+Processing 708 of 722 at 21:42:42 (18.10.18)
+  Restoring commit took 490ms
+    1 files produced, start merging them
+    Read file: 1 (0 bytes)
+  Metric execution (+ merging 0 results) took 00:07:07
+  Running metrics took 427939ms
+Handling (+writing) KH output took 428487ms
+Processing 709 of 722 at 21:49:50 (18.10.18)
+  Restoring commit took 18249ms
+    Timeout occured while running metrics, try again 0 times.
+  Metric execution (+ merging 0 results) took 00:10:00
+  Running metrics took 600669ms
+Handling (+writing) KH output took 619047ms
+Processing 710 of 722 at 22:00:09 (18.10.18)
+  Restoring commit took 18515ms
+Handling (+writing) KH output took 21395ms
+Processing 711 of 722 at 22:00:31 (18.10.18)
+Handling (+writing) KH output took 4594ms
+Processing 712 of 722 at 22:00:35 (18.10.18)
+Handling (+writing) KH output took 4175ms
+Processing 713 of 722 at 22:00:39 (18.10.18)
+Handling (+writing) KH output took 4058ms
+Processing 714 of 722 at 22:00:43 (18.10.18)
+Handling (+writing) KH output took 9032ms
+Processing 715 of 722 at 22:00:52 (18.10.18)
+Handling (+writing) KH output took 3467ms
+Processing 716 of 722 at 22:00:56 (18.10.18)
+Handling (+writing) KH output took 3400ms
+Processing 717 of 722 at 22:00:59 (18.10.18)
+Handling (+writing) KH output took 3535ms
+Processing 718 of 722 at 22:01:03 (18.10.18)
+Handling (+writing) KH output took 3373ms
+Processing 719 of 722 at 22:01:06 (18.10.18)
+Handling (+writing) KH output took 3484ms
+Processing 720 of 722 at 22:01:10 (18.10.18)
+Handling (+writing) KH output took 3307ms
+Processing 721 of 722 at 22:01:13 (18.10.18)
+Handling (+writing) KH output took 3446ms
+Processing 722 of 722 at 22:01:16 (18.10.18)
+Handling (+writing) KH output took 3182ms
