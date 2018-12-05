@@ -56,8 +56,13 @@ public class CSVMerger {
         long lastmsg = millis;
         try (CsvReader reader = new CsvReader(new FileInputStream(inputB)); CsvWriter writer = new CsvWriter(new FileOutputStream(output), ',')) {
             pos = 0;
+            
             String[] line = reader.readNextRow();
-            writer.writeRow((Object[]) line);
+            Object[] header = new Object[line.length + 1];
+            header[0] = "function_id";
+            System.arraycopy(line, 0, header, 1, line.length);
+            writer.writeRow(header);
+            
             while ((line = reader.readNextRow()) != null) {
                 if (commits.functionProcessed("", line[0], line[2], line[1])) {
                     continue;

@@ -160,7 +160,7 @@ public class CSVMergerTest {
         assertThat(outputFile.exists(), is(true));
         ArrayList<String> outputLines = readFile(outputFile);
         assertThat(outputLines.size(), is(2));
-        assertThat(outputLines.get(0), is("Hello,World,blubb"));
+        assertThat(outputLines.get(0), is("function_id,Hello,World,blubb"));
         assertThat(outputLines.get(1), is("4,2,4,8"));
     }
     
@@ -183,7 +183,7 @@ public class CSVMergerTest {
         assertThat(outputFile.exists(), is(true));
         ArrayList<String> outputLines = readFile(outputFile);
         assertThat(outputLines.size(), is(2));
-        assertThat(outputLines.get(0), is("Hello,World,blubb"));
+        assertThat(outputLines.get(0), is("function_id,Hello,World,blubb"));
         assertThat(outputLines.get(1), is("4,2,4,8"));
     }
 }
