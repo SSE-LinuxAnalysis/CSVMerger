@@ -62,6 +62,7 @@ public class ExcelMerger {
             rowCount += handleFile(file, first);
             first = false;
         }
+        writer.flush();
         writer.close();
         
         System.out.println("Merged " + rowCount + " rows in " + ((System.currentTimeMillis() - millis) / 1000) + " seconds.");
